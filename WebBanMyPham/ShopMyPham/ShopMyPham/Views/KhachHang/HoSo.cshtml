@@ -1,0 +1,85 @@
+﻿@model ShopMyPham.Models.Entity.ThongTin
+
+@{
+    ViewBag.Title = "HoSo";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+<div class="row" style="margin-top:63px">
+    <div class="col-sm-1"></div>
+    <div class="col-sm-10" style="padding:0;background:#ffffff">
+        <div class="row">
+            <div class="col-sm-3">
+                @Html.Action("DanhMucSP", "DanhMucSanPham")
+            </div>
+            <div class="col-sm-9" style="height:555px">
+                <br />
+                <h3 style="color:#FA748F; margin-left:25%">THÔNG TIN TÀI KHOẢN CỦA BẠN</h3>
+                <br />
+                <div class="container">
+                    <div style="background:#FFE7EC; margin-right:20px;padding-top:30px; height:300px; padding-left:35%">
+                        <table style="text-align:left; ">
+                            <tr >
+                                <td style="width:25%; font-weight:bold">Họ và tên:</td>
+                                <td style="width:380px">@Html.DisplayFor(model => model.HoTen)</td>
+                            </tr>
+                            <tr>
+                                <td style="width:20%; font-weight:bold">Giới tính:</td>
+                                <td style="width:380px">@Html.DisplayFor(model => model.GioTinh)</td>
+                            </tr>
+                            <tr>
+                                <td style="width:20%; font-weight:bold">Địa chỉ:</td>
+                                <td style="width:380px">@Html.DisplayFor(model => model.DiaChi)</td>
+                            </tr>
+                            <tr>
+                                <td style="width:20%; font-weight:bold">Điện thoại:</td>
+                                <td style="color: red; width:200px">@Html.DisplayFor(model => model.DienThoai)</td>
+                            </tr>
+                            <tr>
+                                <td style="width:20%; font-weight:bold">Email:</td>
+                                <td style="color: red; width:200px">@Html.DisplayFor(model => model.Email)</td>
+                            </tr>
+                            <tr>
+                                <td style="width:20%; font-weight:bold">Tài khoản:</td>
+                                <td style="color: red; width:200px">@Html.DisplayFor(model => model.TaiKhoan)</td>
+                            </tr>
+                            <tr>
+                                <td style="width:20%; font-weight:bold">Mật khẩu:</td>
+                                <td style="color: red; width:200px">@Html.DisplayFor(model => model.MatKhau)</td>
+                            </tr>
+                        </table>
+                        <br />
+                        <a href="@Url.Action("SuaKH", "KhachHang", new { @ma = Model.Ma })" style="margin-left:5%"><input type="submit" value="Thay Đổi" class="btn" style="background:#FA748F; color:white; font-weight:bold" /></a>
+                        <a href="@Url.Action("Back to List", "HoSo")" style="margin-left:5%"><input type="submit" value="Trở Lại" class="btn" style="background:#FA748F; color:white; font-weight:bold" /></a>
+                        <br />
+                    </div>
+                    
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <div class="col-sm-1"></div>
+</div>
+<div class="row">
+    <div class="auto-style1" style="background:#FA748F; color:#ffffff">
+        <a style="font-weight:bold">HỖ TRỢ KHÁCH HÀNG</a><br />
+        <a>Thắc mắc - Hỏi đáp</a><br />
+        <a>Hướng dẫn mua hàng</a><br />
+        <a>Đặt hàng & Thanh toán</a><br />
+    </div>
+    <div class="auto-style1" style="background:#FA748F; color:#ffffff">
+        <a style="font-weight:bold">THÔNG TIN LIÊN HỆ</a><br />
+        <a>140 Lê Trọng Tấn, Tây Thạnh, Tân Phú </a><br />
+        <a>Hotline: 012345678 - 098765432</a><br />
+        <a>Tư vấn bán hàng từ(8h - 20h thứ 2 - chủ nhật)</a><br />
+    </div>
+    <div class="auto-style1" style="background:#FA748F; color:#ffffff">
+        <a style="font-weight:bold">KẾT NỐI VỚI CHÚNG TÔI</a><br />
+        <a></a><br />
+        <a href="https://www.facebook.com/"><img src="~/Assets/img/fb.jpg" style="width:40px; height:40px;" href="#" /></a>
+        <a href="https://www.instagram.com/"><img src="~/Assets/img/IG.jpg" style="width:40px; height:40px;" href="#" /></a>
+        <a href="https://www.twitter.com/"><img src="~/Assets/img/wb.jpg" style="width:40px; height:40px;" href="#" /></a>
+        <br />
+        <a></a><br />
+    </div>
+</div>

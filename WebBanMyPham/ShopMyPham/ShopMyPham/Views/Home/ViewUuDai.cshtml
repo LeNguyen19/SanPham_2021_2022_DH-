@@ -1,0 +1,43 @@
+﻿@{
+    ViewBag.Title = "ViewUuDai";
+    Layout = "~/Views/Shared/_LayoutHome.cshtml";
+}
+<div class="row" style="margin-top:63px">
+    <div class="col-sm-1"></div>
+    <div class="col-sm-10" style="padding:0;background:#ffffff">
+        <div class="row">
+            <div class="col-sm-3">
+                @Html.Action("DanhMucSP", "DanhMucSanPham")
+            </div>
+            <div class="col-sm-9" style="height:555px">
+                <a style="margin-left:33%"><img src="~/Assets/img/UD.png" style="width:30%; height:18%" /></a>
+                <br />
+                <img src="~/Assets/img/SUD.png" style="width:800px; height:400px; margin-left:5%" />
+            </div>
+        </div>
+    </div>
+    <div class="col-sm-1"></div>
+</div>
+<div class="row">
+    <div class="auto-style1" style="background:#FA748F; color:#ffffff">
+        <a style="font-weight:bold">HỖ TRỢ KHÁCH HÀNG</a><br />
+        <a>Thắc mắc - Hỏi đáp</a><br />
+        <a>Hướng dẫn mua hàng</a><br />
+        <a>Đặt hàng & Thanh toán</a><br />
+    </div>
+    <div class="auto-style1" style="background:#FA748F; color:#ffffff">
+        <a style="font-weight:bold">THÔNG TIN LIÊN HỆ</a><br />
+        <a>140 Lê Trọng Tấn, Tây Thạnh, Tân Phú </a><br />
+        <a>Hotline: 012345678 - 098765432</a><br />
+        <a>Tư vấn bán hàng từ(8h - 20h thứ 2 - chủ nhật)</a><br />
+    </div>
+    <div class="auto-style1" style="background:#FA748F; color:#ffffff">
+        <a style="font-weight:bold">KẾT NỐI VỚI CHÚNG TÔI</a><br />
+        <a></a><br />
+        <a href="https://www.facebook.com/"><img src="~/Assets/img/fb.jpg" style="width:40px; height:40px;" href="#" /></a>
+        <a href="https://www.instagram.com/"><img src="~/Assets/img/IG.jpg" style="width:40px; height:40px;" href="#" /></a>
+        <a href="https://www.twitter.com/"><img src="~/Assets/img/wb.jpg" style="width:40px; height:40px;" href="#" /></a>
+        <br />
+        <a></a><br />
+    </div>
+</div>

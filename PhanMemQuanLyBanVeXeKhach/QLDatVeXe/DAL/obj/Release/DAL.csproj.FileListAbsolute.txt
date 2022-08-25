@@ -1,0 +1,8 @@
+F:\QLDatVeXe\DAL\bin\Release\DAL.dll
+F:\QLDatVeXe\DAL\bin\Release\DAL.pdb
+F:\QLDatVeXe\DAL\bin\Release\DTO.dll
+F:\QLDatVeXe\DAL\bin\Release\Newtonsoft.Json.dll
+F:\QLDatVeXe\DAL\bin\Release\DTO.pdb
+F:\QLDatVeXe\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+F:\QLDatVeXe\DAL\obj\Release\DAL.dll
+F:\QLDatVeXe\DAL\obj\Release\DAL.pdb

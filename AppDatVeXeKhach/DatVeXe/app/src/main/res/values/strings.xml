@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DatVeXe</string>
+    <string name="select_DiemDi">Điểm khởi hành</string>
+    <string name="select_DiemDen">Điểm đến</string>
+    <string name="Time">Giờ khởi hành</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Tang_1_fragment">Tầng dưới</string>
+    <string name="Tang_2_fragment">Tầng trên</string>
+</resources>

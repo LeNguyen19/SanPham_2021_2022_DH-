@@ -1,0 +1,12 @@
+C:\Users\Bridget\OneDrive\Máy tính\demoDatVeXe\QLDatVeXe\QLDatVeXe\bin\Debug\QLDatVeXe.exe.config
+C:\Users\Bridget\OneDrive\Máy tính\demoDatVeXe\QLDatVeXe\QLDatVeXe\bin\Debug\QLDatVeXe.exe
+C:\Users\Bridget\OneDrive\Máy tính\demoDatVeXe\QLDatVeXe\QLDatVeXe\bin\Debug\QLDatVeXe.pdb
+C:\Users\Bridget\OneDrive\Máy tính\demoDatVeXe\QLDatVeXe\QLDatVeXe\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Bridget\OneDrive\Máy tính\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.csprojResolveAssemblyReference.cache
+C:\Users\Bridget\OneDrive\Máy tính\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmDangNhap.resources
+C:\Users\Bridget\OneDrive\Máy tính\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.Properties.Resources.resources
+C:\Users\Bridget\OneDrive\Máy tính\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.csproj.GenerateResource.Cache
+C:\Users\Bridget\OneDrive\Máy tính\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.exe
+C:\Users\Bridget\OneDrive\Máy tính\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.pdb
+C:\Users\Bridget\OneDrive\Máy tính\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmMain.resources
+C:\Users\Bridget\OneDrive\Máy tính\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmHoSo.resources

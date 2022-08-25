@@ -1,0 +1,10 @@
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\DTO\bin\Debug\DTO.dll.config
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\DTO\bin\Debug\DTO.dll
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\DTO\bin\Debug\DTO.pdb
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\DTO\obj\Debug\DTO.dll
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\DTO\obj\Debug\DTO.pdb
+F:\QLDatVeXe\DTO\bin\Debug\DTO.dll.config
+F:\QLDatVeXe\DTO\bin\Debug\DTO.dll
+F:\QLDatVeXe\DTO\bin\Debug\DTO.pdb
+F:\QLDatVeXe\DTO\obj\Debug\DTO.dll
+F:\QLDatVeXe\DTO\obj\Debug\DTO.pdb

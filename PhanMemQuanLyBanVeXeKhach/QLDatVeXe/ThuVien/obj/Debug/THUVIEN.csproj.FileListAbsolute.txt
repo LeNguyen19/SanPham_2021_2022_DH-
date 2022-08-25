@@ -1,0 +1,8 @@
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\ThuVien\bin\Debug\ThuVien.dll
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\ThuVien\bin\Debug\ThuVien.pdb
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\ThuVien\obj\Debug\ThuVien.dll
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\ThuVien\obj\Debug\ThuVien.pdb
+F:\QLDatVeXe\ThuVien\bin\Debug\ThuVien.dll
+F:\QLDatVeXe\ThuVien\bin\Debug\ThuVien.pdb
+F:\QLDatVeXe\ThuVien\obj\Debug\ThuVien.dll
+F:\QLDatVeXe\ThuVien\obj\Debug\ThuVien.pdb

@@ -1,0 +1,12 @@
+F:\QLDatVeXe\BLLFireBase\bin\Debug\BLLFireBase.dll
+F:\QLDatVeXe\BLLFireBase\bin\Debug\BLLFireBase.pdb
+F:\QLDatVeXe\BLLFireBase\bin\Debug\DTO.dll
+F:\QLDatVeXe\BLLFireBase\bin\Debug\FireBase.dll
+F:\QLDatVeXe\BLLFireBase\bin\Debug\FireSharp.dll
+F:\QLDatVeXe\BLLFireBase\bin\Debug\Microsoft.Threading.Tasks.dll
+F:\QLDatVeXe\BLLFireBase\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+F:\QLDatVeXe\BLLFireBase\bin\Debug\DTO.pdb
+F:\QLDatVeXe\BLLFireBase\bin\Debug\FireBase.pdb
+F:\QLDatVeXe\BLLFireBase\obj\Debug\BLLFireBase.csprojResolveAssemblyReference.cache
+F:\QLDatVeXe\BLLFireBase\obj\Debug\BLLFireBase.dll
+F:\QLDatVeXe\BLLFireBase\obj\Debug\BLLFireBase.pdb

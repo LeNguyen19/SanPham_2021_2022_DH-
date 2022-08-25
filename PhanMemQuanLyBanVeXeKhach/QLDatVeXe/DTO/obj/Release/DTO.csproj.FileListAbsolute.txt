@@ -1,0 +1,6 @@
+F:\QLDatVeXe\DTO\bin\Release\DTO.dll.config
+F:\QLDatVeXe\DTO\bin\Release\DTO.dll
+F:\QLDatVeXe\DTO\bin\Release\DTO.pdb
+F:\QLDatVeXe\DTO\obj\Release\DTO.csprojResolveAssemblyReference.cache
+F:\QLDatVeXe\DTO\obj\Release\DTO.dll
+F:\QLDatVeXe\DTO\obj\Release\DTO.pdb

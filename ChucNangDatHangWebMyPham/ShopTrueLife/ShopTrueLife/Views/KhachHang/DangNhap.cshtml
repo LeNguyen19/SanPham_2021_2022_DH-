@@ -1,0 +1,105 @@
+﻿@{
+    ViewBag.Title = "DangNhap";
+    Layout = "~/Views/Shared/_LayoutHome.cshtml";
+}
+<style>
+    .auto-style1 {
+        flex: 0 0 auto;
+        width: 33.33333333%;
+        text-align: center;
+        font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    }
+
+    #button {
+        background: #FA748F;
+        color: #ffffff;
+        border-radius: 0;
+    }
+
+        #button:hover {
+            background: #000000;
+        }
+</style>
+@using (Html.BeginForm())
+        {
+    @Html.AntiForgeryToken()
+<div class="row">
+    <div class="col-md-3" style="background:#D9D9D9; height:270px; font-family:Cambria, Cochin, Georgia, Times, Times New Roman, serif; padding-top: 90px; padding-left:10%">
+        <a style="color:#000000; font-size:35px;">Đăng Nhập</a>
+        <br />
+        <a style="color:#000000; font-size:medium">Trang Chủ</a> / <a style="color:#FA748F;font-size:medium">Đăng Nhập</a>
+    </div>
+    <div class="col-md-9" style="padding:0">
+        <img src="~/Assets/img/gioiThieu.PNG" style="height:270px; width:100%" href="#" />
+    </div>
+</div>
+<br />
+<div class="row" >
+    <div class="col-md-1"></div>
+    <div class="col-md-10">
+        <div class="row">
+            <div class="col-md-6">
+                <div>
+                    <img src="~/Assets/img/Login.PNG" style="height:600px; width:100%" href="#" />
+                </div>
+                <br />
+            </div>
+            <div class="col-md-6">
+                <br /><br /><br /><br />
+                <div style="font-size:larger; font-family:Cambria, Cochin, Georgia, Times, Times New Roman, serif; text-align:center; font-size:30px">
+                    <a>ĐĂNG NHẬP TÀI KHOẢN</a>
+                </div>
+                <br />
+                <div>
+                    <a>Nhập tài khoản:</a>
+                    <br />
+                    <input placeholder="Tài khoản" name="TaiKhoan" class="form-control" type="text" style="border-radius:0" />
+                </div>
+                <br />
+                <div>
+                    <a>Nhập mật khẩu:</a>
+                    <br />
+                    <input placeholder="Mật khẩu" name="MatKhau" class="form-control" type="password" style="border-radius:0" />
+                </div>
+                <br />
+                <div style="padding-left:41%">
+                    <a href="~/User/UserTrangChu"><button type="submit" class="btn" id="button">Đăng nhập</button></a>
+                </div>
+                <br />
+                <div style="text-align:center">
+                    <a style="color:#808080">Chưa có tài khoản thì đăng ký</a>
+                    <a href="~/KhachHang/DangKy" style="color:black">tại đây</a>
+                </div>
+                <br />
+            </div>
+        </div>
+    </div>
+    <div class="col-md-1"></div>
+</div>
+<div class="row">
+    <div class="auto-style1" style="background:#FA748F; color:#ffffff">
+        <br />
+        <a style="font-weight:bold">HỖ TRỢ KHÁCH HÀNG</a><br />
+        <a>Thắc mắc - Hỏi đáp</a><br />
+        <a>Hướng dẫn mua hàng</a><br />
+        <a>Đặt hàng & Thanh toán</a><br />
+    </div>
+    <div class="auto-style1" style="background:#FA748F; color:#ffffff">
+        <br />
+        <a style="font-weight:bold">THÔNG TIN LIÊN HỆ</a><br />
+        <a>140 Lê Trọng Tấn, Tây Thạnh, Tân Phú </a><br />
+        <a>Hotline: 012345678 - 098765432</a><br />
+        <a>Tư vấn bán hàng từ(8h - 20h thứ 2 - chủ nhật)</a><br />
+    </div>
+    <div class="auto-style1" style="background:#FA748F; color:#ffffff">
+        <br />
+        <a style="font-weight:bold">KẾT NỐI VỚI CHÚNG TÔI</a><br />
+        <a></a><br />
+        <a href="https://www.facebook.com/"><img src="~/Assets/img/fb.jpg" style="width:40px; height:40px;" href="#" /></a>
+        <a href="https://www.instagram.com/"><img src="~/Assets/img/IG.jpg" style="width:40px; height:40px;" href="#" /></a>
+        <a href="https://www.twitter.com/"><img src="~/Assets/img/wb.jpg" style="width:40px; height:40px;" href="#" /></a>
+        <br />
+        <a></a><br />
+    </div>
+</div>
+}

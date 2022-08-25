@@ -1,0 +1,23 @@
+﻿@using ShopMyPham.Models.Entity;
+@model IEnumerable<LoaiSanPham>
+<style>
+    #font_a {
+        text-decoration: none;
+        color: black;
+    }
+
+    #font_a:hover {
+        color: #FA748F;
+    }
+</style>
+<ul class="list-group list-group-flush text-left">
+    <li class="list-group-item">
+        <a href="#" style="text-transform:uppercase; text-decoration:none; color:#FA748F; font-weight:bold; font-size:large">DANH MỤC SẢN PHẨM</a>
+    </li>
+    @foreach (var item in Model)
+    {
+        <li class="list-group-item">
+            <a id="font_a" href="@Url.Action("SanPhamTheoLoai1", "DanhMucSanPham", new { @ma = item.MaLoaiSP})">@item.TenLoaiSP</a>
+        </li>
+    }
+</ul>

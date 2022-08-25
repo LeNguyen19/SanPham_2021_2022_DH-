@@ -1,0 +1,4 @@
+F:\QLDatVeXe\ThuVien\bin\Release\ThuVien.dll
+F:\QLDatVeXe\ThuVien\bin\Release\ThuVien.pdb
+F:\QLDatVeXe\ThuVien\obj\Release\ThuVien.dll
+F:\QLDatVeXe\ThuVien\obj\Release\ThuVien.pdb

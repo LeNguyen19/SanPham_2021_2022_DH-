@@ -1,0 +1,46 @@
+﻿@model IEnumerable<ShopMyPham.Models.Entity.ChiTietDonHang>
+@{
+    ViewBag.Title = "Detail";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+<div class="container">
+    <br />
+    <h3 style="margin-left:37%; color:#FA748F; font-weight:bold">QUẢN LÝ CHI TIẾT ĐƠN HÀNG</h3>
+    <br />
+    <table class="table table-bordered table-striped">
+        <tr style="background: #FA748F">
+            <th style="width: 200px">
+                Mã Đơn Hàng
+            </th>
+            <th style="width: 200px">
+                Mã Sản Phẩm
+            </th>
+            <th style="width: 200px">
+                Số Lượng
+            </th>
+            <th style="width: 200px">
+                Đơn Giá
+            </th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td style="width: 50px">
+                    @Html.DisplayFor(modelItem => item.MaDonHang)
+                </td>
+                <td style="width: 100px">
+                    @Html.DisplayFor(modelItem => item.MaSP)
+                </td>
+                <td style="width: 100px">
+                    @Html.DisplayFor(modelItem => item.SoLuong)
+                </td>
+                <td style="width: 100px">
+                    @Html.DisplayFor(modelItem => item.DonGia)
+                </td>
+            </tr>
+        }
+
+    </table>
+    <input href="~/Admin/DonHang/ShowDonHang" style="border-radius:5px; background:#FA748F; border-color:#FA748F; color:white; width:100px; font-weight:bold;height: 38px" type="submit" value="Trở Về" />
+</div>

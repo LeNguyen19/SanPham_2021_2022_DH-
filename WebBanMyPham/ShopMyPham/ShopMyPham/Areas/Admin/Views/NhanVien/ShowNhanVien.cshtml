@@ -1,0 +1,86 @@
+﻿@model IEnumerable<ShopMyPham.Models.Entity.ThongTin>
+@{
+    ViewBag.Title = "ShowNhanVien";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+<div class="container">
+    <br />
+    <h3 style="margin-left:37%; color:#FA748F; font-weight:bold">QUẢN LÝ NHÂN VIÊN</h3>
+    <br />
+    @Html.ActionLink("Thêm Nhân Viên", "ThemNV","NhanVien")
+    <table class="table table-bordered table-striped">
+        <tr style="background: #FA748F">
+            <th style="width: 100px">
+                @*@Html.DisplayNameFor(model => model.Ma)*@
+                Mã
+            </th>
+            <th style="width: 300px">
+                @*@Html.DisplayNameFor(model => model.HoTen)*@
+                Tên Nhân Viên
+            </th>
+            <th style="width: 100px">
+                @*@Html.DisplayNameFor(model => model.GioTinh)*@
+                Giới Tính
+            </th>
+            <th style="width: 280px">
+                @*@Html.DisplayNameFor(model => model.DiaChi)*@
+                Địa Chỉ
+            </th>
+            <th style="width: 180px">
+                @*@Html.DisplayNameFor(model => model.DienThoai)*@
+                Điện Thoại
+            </th>
+            <th style="width: 200px">
+                @*@Html.DisplayNameFor(model => model.Email)*@
+                Email
+            </th>
+            <th style="width: 200px">
+                @*@Html.DisplayNameFor(model => model.TaiKhoan)*@
+                Tài Khoản
+            </th>
+            <th style="width: 200px">
+                @*@Html.DisplayNameFor(model => model.MatKhau)*@
+                Mật Khẩu
+            </th>
+            <th></th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td style="width: 50px">
+                    @Html.DisplayFor(modelItem => item.Ma)
+                </td>
+                <td style="width: 100px">
+                    @Html.DisplayFor(modelItem => item.HoTen)
+                </td>
+                <td style="width: 100px">
+                    @Html.DisplayFor(modelItem => item.GioTinh)
+                </td>
+                <td style="width: 100px">
+                    @Html.DisplayFor(modelItem => item.DiaChi)
+                </td>
+                <td style="width: 100px">
+                    @Html.DisplayFor(modelItem => item.DienThoai)
+                </td>
+                <td style="width: 100px">
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+                <td style="width: 100px">
+                    @Html.DisplayFor(modelItem => item.TaiKhoan)
+                </td>
+                <td style="width: 100px">
+                    @Html.DisplayFor(modelItem => item.MatKhau)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit","SuaNV", new { @ma = item.Ma })
+                </td>
+                <td>
+                    @Html.ActionLink("Delete", "XoaNV", new { @ma = item.Ma })
+                </td>
+            </tr>
+        }
+
+    </table>
+</div>

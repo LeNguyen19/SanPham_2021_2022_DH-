@@ -1,0 +1,150 @@
+D:\Học kỳ 6\Đồ Án\Đồ Án Phân Tích Thiết Kế Hệ Thống Thông Tin_Cô Thuỷ - Lê - Tính - Quang - Hạc\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\ShopTrueLife.dll.config
+D:\Học kỳ 6\Đồ Án\Đồ Án Phân Tích Thiết Kế Hệ Thống Thông Tin_Cô Thuỷ - Lê - Tính - Quang - Hạc\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\ShopTrueLife.dll
+D:\Học kỳ 6\Đồ Án\Đồ Án Phân Tích Thiết Kế Hệ Thống Thông Tin_Cô Thuỷ - Lê - Tính - Quang - Hạc\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\ShopTrueLife.pdb
+D:\Học kỳ 6\Đồ Án\Đồ Án Phân Tích Thiết Kế Hệ Thống Thông Tin_Cô Thuỷ - Lê - Tính - Quang - Hạc\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\Microsoft.Web.Infrastructure.dll
+D:\Học kỳ 6\Đồ Án\Đồ Án Phân Tích Thiết Kế Hệ Thống Thông Tin_Cô Thuỷ - Lê - Tính - Quang - Hạc\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Học kỳ 6\Đồ Án\Đồ Án Phân Tích Thiết Kế Hệ Thống Thông Tin_Cô Thuỷ - Lê - Tính - Quang - Hạc\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\Newtonsoft.Json.dll
+D:\Học kỳ 6\Đồ Án\Đồ Án Phân Tích Thiết Kế Hệ Thống Thông Tin_Cô Thuỷ - Lê - Tính - Quang - Hạc\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Net.Http.Formatting.dll
+D:\Học kỳ 6\Đồ Án\Đồ Án Phân Tích Thiết Kế Hệ Thống Thông Tin_Cô Thuỷ - Lê - Tính - Quang - Hạc\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.Helpers.dll
+D:\Học kỳ 6\Đồ Án\Đồ Án Phân Tích Thiết Kế Hệ Thống Thông Tin_Cô Thuỷ - Lê - Tính - Quang - Hạc\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.Http.dll
+D:\Học kỳ 6\Đồ Án\Đồ Án Phân Tích Thiết Kế Hệ Thống Thông Tin_Cô Thuỷ - Lê - Tính - Quang - Hạc\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.Http.WebHost.dll
+D:\Học kỳ 6\Đồ Án\Đồ Án Phân Tích Thiết Kế Hệ Thống Thông Tin_Cô Thuỷ - Lê - Tính - Quang - Hạc\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.Mvc.dll
+D:\Học kỳ 6\Đồ Án\Đồ Án Phân Tích Thiết Kế Hệ Thống Thông Tin_Cô Thuỷ - Lê - Tính - Quang - Hạc\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.Razor.dll
+D:\Học kỳ 6\Đồ Án\Đồ Án Phân Tích Thiết Kế Hệ Thống Thông Tin_Cô Thuỷ - Lê - Tính - Quang - Hạc\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.WebPages.Deployment.dll
+D:\Học kỳ 6\Đồ Án\Đồ Án Phân Tích Thiết Kế Hệ Thống Thông Tin_Cô Thuỷ - Lê - Tính - Quang - Hạc\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.WebPages.dll
+D:\Học kỳ 6\Đồ Án\Đồ Án Phân Tích Thiết Kế Hệ Thống Thông Tin_Cô Thuỷ - Lê - Tính - Quang - Hạc\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.WebPages.Razor.dll
+D:\Học kỳ 6\Đồ Án\Đồ Án Phân Tích Thiết Kế Hệ Thống Thông Tin_Cô Thuỷ - Lê - Tính - Quang - Hạc\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\Newtonsoft.Json.xml
+D:\Học kỳ 6\Đồ Án\Đồ Án Phân Tích Thiết Kế Hệ Thống Thông Tin_Cô Thuỷ - Lê - Tính - Quang - Hạc\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Net.Http.Formatting.xml
+D:\Học kỳ 6\Đồ Án\Đồ Án Phân Tích Thiết Kế Hệ Thống Thông Tin_Cô Thuỷ - Lê - Tính - Quang - Hạc\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.Helpers.xml
+D:\Học kỳ 6\Đồ Án\Đồ Án Phân Tích Thiết Kế Hệ Thống Thông Tin_Cô Thuỷ - Lê - Tính - Quang - Hạc\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.Http.xml
+D:\Học kỳ 6\Đồ Án\Đồ Án Phân Tích Thiết Kế Hệ Thống Thông Tin_Cô Thuỷ - Lê - Tính - Quang - Hạc\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.Http.WebHost.xml
+D:\Học kỳ 6\Đồ Án\Đồ Án Phân Tích Thiết Kế Hệ Thống Thông Tin_Cô Thuỷ - Lê - Tính - Quang - Hạc\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.Mvc.xml
+D:\Học kỳ 6\Đồ Án\Đồ Án Phân Tích Thiết Kế Hệ Thống Thông Tin_Cô Thuỷ - Lê - Tính - Quang - Hạc\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.Razor.xml
+D:\Học kỳ 6\Đồ Án\Đồ Án Phân Tích Thiết Kế Hệ Thống Thông Tin_Cô Thuỷ - Lê - Tính - Quang - Hạc\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.WebPages.xml
+D:\Học kỳ 6\Đồ Án\Đồ Án Phân Tích Thiết Kế Hệ Thống Thông Tin_Cô Thuỷ - Lê - Tính - Quang - Hạc\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.WebPages.Deployment.xml
+D:\Học kỳ 6\Đồ Án\Đồ Án Phân Tích Thiết Kế Hệ Thống Thông Tin_Cô Thuỷ - Lê - Tính - Quang - Hạc\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.WebPages.Razor.xml
+D:\Học kỳ 6\Đồ Án\Đồ Án Phân Tích Thiết Kế Hệ Thống Thông Tin_Cô Thuỷ - Lê - Tính - Quang - Hạc\ShopMyPham\ShopTrueLife\ShopTrueLife\obj\Debug\ShopTrueLife.csprojResolveAssemblyReference.cache
+D:\Học kỳ 6\Đồ Án\Đồ Án Phân Tích Thiết Kế Hệ Thống Thông Tin_Cô Thuỷ - Lê - Tính - Quang - Hạc\ShopMyPham\ShopTrueLife\ShopTrueLife\obj\Debug\ShopTrueLife.dll
+D:\Học kỳ 6\Đồ Án\Đồ Án Phân Tích Thiết Kế Hệ Thống Thông Tin_Cô Thuỷ - Lê - Tính - Quang - Hạc\ShopMyPham\ShopTrueLife\ShopTrueLife\obj\Debug\ShopTrueLife.pdb
+D:\Học kỳ 6\Đồ Án\Đồ Án Phân Tích Thiết Kế Hệ Thống Thông Tin_Cô Thuỷ - Lê - Tính - Quang - Hạc\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\EntityFramework.dll
+D:\Học kỳ 6\Đồ Án\Đồ Án Phân Tích Thiết Kế Hệ Thống Thông Tin_Cô Thuỷ - Lê - Tính - Quang - Hạc\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\EntityFramework.SqlServer.dll
+D:\Học kỳ 6\Đồ Án\Đồ Án Phân Tích Thiết Kế Hệ Thống Thông Tin_Cô Thuỷ - Lê - Tính - Quang - Hạc\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\EntityFramework.xml
+D:\Học kỳ 6\Đồ Án\Đồ Án Phân Tích Thiết Kế Hệ Thống Thông Tin_Cô Thuỷ - Lê - Tính - Quang - Hạc\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\EntityFramework.SqlServer.xml
+C:\Users\hp\Desktop\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\ShopTrueLife.dll.config
+C:\Users\hp\Desktop\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\ShopTrueLife.dll
+C:\Users\hp\Desktop\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\ShopTrueLife.pdb
+C:\Users\hp\Desktop\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\Antlr3.Runtime.dll
+C:\Users\hp\Desktop\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\EntityFramework.dll
+C:\Users\hp\Desktop\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\EntityFramework.SqlServer.dll
+C:\Users\hp\Desktop\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hp\Desktop\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\hp\Desktop\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Net.Http.Formatting.dll
+C:\Users\hp\Desktop\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.Helpers.dll
+C:\Users\hp\Desktop\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.Http.dll
+C:\Users\hp\Desktop\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.Http.WebHost.dll
+C:\Users\hp\Desktop\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.Mvc.dll
+C:\Users\hp\Desktop\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.Optimization.dll
+C:\Users\hp\Desktop\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.Razor.dll
+C:\Users\hp\Desktop\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hp\Desktop\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.WebPages.dll
+C:\Users\hp\Desktop\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.WebPages.Razor.dll
+C:\Users\hp\Desktop\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\WebGrease.dll
+C:\Users\hp\Desktop\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\Antlr3.Runtime.pdb
+C:\Users\hp\Desktop\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\EntityFramework.xml
+C:\Users\hp\Desktop\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\EntityFramework.SqlServer.xml
+C:\Users\hp\Desktop\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\Newtonsoft.Json.xml
+C:\Users\hp\Desktop\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.Optimization.xml
+C:\Users\hp\Desktop\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Net.Http.Formatting.xml
+C:\Users\hp\Desktop\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.Helpers.xml
+C:\Users\hp\Desktop\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.Http.xml
+C:\Users\hp\Desktop\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.Http.WebHost.xml
+C:\Users\hp\Desktop\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.Mvc.xml
+C:\Users\hp\Desktop\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.Razor.xml
+C:\Users\hp\Desktop\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.WebPages.xml
+C:\Users\hp\Desktop\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hp\Desktop\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.WebPages.Razor.xml
+C:\Users\hp\Desktop\ShopMyPham\ShopTrueLife\ShopTrueLife\obj\Debug\ShopTrueLife.dll
+C:\Users\hp\Desktop\ShopMyPham\ShopTrueLife\ShopTrueLife\obj\Debug\ShopTrueLife.pdb
+C:\Users\hp\Desktop\ShopMyPham\ShopTrueLife\ShopTrueLife\obj\Debug\ShopTrueLife.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\ShopMyPham\ShopTrueLife\ShopTrueLife\obj\Debug\Interop.Microsoft.VisualWebDeveloper.Interop.WebDeveloperPage.dll
+C:\Users\hp\Desktop\ShopMyPham\ShopTrueLife\ShopTrueLife\obj\Debug\ShopTrueLife.csproj.ResolveComReference.cache
+E:\Học kỳ 6\Phân tích thiết kế hệ thống thôn tin\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\ShopTrueLife.dll.config
+E:\Học kỳ 6\Phân tích thiết kế hệ thống thôn tin\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\ShopTrueLife.dll
+E:\Học kỳ 6\Phân tích thiết kế hệ thống thôn tin\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\ShopTrueLife.pdb
+E:\Học kỳ 6\Phân tích thiết kế hệ thống thôn tin\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\Antlr3.Runtime.dll
+E:\Học kỳ 6\Phân tích thiết kế hệ thống thôn tin\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\EntityFramework.dll
+E:\Học kỳ 6\Phân tích thiết kế hệ thống thôn tin\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\EntityFramework.SqlServer.dll
+E:\Học kỳ 6\Phân tích thiết kế hệ thống thôn tin\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\Microsoft.Web.Infrastructure.dll
+E:\Học kỳ 6\Phân tích thiết kế hệ thống thôn tin\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Học kỳ 6\Phân tích thiết kế hệ thống thôn tin\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\Newtonsoft.Json.dll
+E:\Học kỳ 6\Phân tích thiết kế hệ thống thôn tin\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Net.Http.Formatting.dll
+E:\Học kỳ 6\Phân tích thiết kế hệ thống thôn tin\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.Helpers.dll
+E:\Học kỳ 6\Phân tích thiết kế hệ thống thôn tin\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.Http.dll
+E:\Học kỳ 6\Phân tích thiết kế hệ thống thôn tin\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.Http.WebHost.dll
+E:\Học kỳ 6\Phân tích thiết kế hệ thống thôn tin\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.Mvc.dll
+E:\Học kỳ 6\Phân tích thiết kế hệ thống thôn tin\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.Optimization.dll
+E:\Học kỳ 6\Phân tích thiết kế hệ thống thôn tin\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.Razor.dll
+E:\Học kỳ 6\Phân tích thiết kế hệ thống thôn tin\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.WebPages.Deployment.dll
+E:\Học kỳ 6\Phân tích thiết kế hệ thống thôn tin\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.WebPages.dll
+E:\Học kỳ 6\Phân tích thiết kế hệ thống thôn tin\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.WebPages.Razor.dll
+E:\Học kỳ 6\Phân tích thiết kế hệ thống thôn tin\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\WebGrease.dll
+E:\Học kỳ 6\Phân tích thiết kế hệ thống thôn tin\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\Antlr3.Runtime.pdb
+E:\Học kỳ 6\Phân tích thiết kế hệ thống thôn tin\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\EntityFramework.xml
+E:\Học kỳ 6\Phân tích thiết kế hệ thống thôn tin\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\EntityFramework.SqlServer.xml
+E:\Học kỳ 6\Phân tích thiết kế hệ thống thôn tin\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\Newtonsoft.Json.xml
+E:\Học kỳ 6\Phân tích thiết kế hệ thống thôn tin\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.Optimization.xml
+E:\Học kỳ 6\Phân tích thiết kế hệ thống thôn tin\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Net.Http.Formatting.xml
+E:\Học kỳ 6\Phân tích thiết kế hệ thống thôn tin\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.Helpers.xml
+E:\Học kỳ 6\Phân tích thiết kế hệ thống thôn tin\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.Http.xml
+E:\Học kỳ 6\Phân tích thiết kế hệ thống thôn tin\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.Http.WebHost.xml
+E:\Học kỳ 6\Phân tích thiết kế hệ thống thôn tin\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.Mvc.xml
+E:\Học kỳ 6\Phân tích thiết kế hệ thống thôn tin\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.Razor.xml
+E:\Học kỳ 6\Phân tích thiết kế hệ thống thôn tin\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.WebPages.xml
+E:\Học kỳ 6\Phân tích thiết kế hệ thống thôn tin\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.WebPages.Deployment.xml
+E:\Học kỳ 6\Phân tích thiết kế hệ thống thôn tin\ShopMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.WebPages.Razor.xml
+E:\Học kỳ 6\Phân tích thiết kế hệ thống thôn tin\ShopMyPham\ShopTrueLife\ShopTrueLife\obj\Debug\ShopTrueLife.csprojResolveAssemblyReference.cache
+E:\Học kỳ 6\Phân tích thiết kế hệ thống thôn tin\ShopMyPham\ShopTrueLife\ShopTrueLife\obj\Debug\Interop.Microsoft.VisualWebDeveloper.Interop.WebDeveloperPage.dll
+E:\Học kỳ 6\Phân tích thiết kế hệ thống thôn tin\ShopMyPham\ShopTrueLife\ShopTrueLife\obj\Debug\ShopTrueLife.csproj.ResolveComReference.cache
+E:\Học kỳ 6\Phân tích thiết kế hệ thống thôn tin\ShopMyPham\ShopTrueLife\ShopTrueLife\obj\Debug\ShopTrueLife.dll
+E:\Học kỳ 6\Phân tích thiết kế hệ thống thôn tin\ShopMyPham\ShopTrueLife\ShopTrueLife\obj\Debug\ShopTrueLife.pdb
+C:\Users\hp\Desktop\NguyenCamLe_DoAn_2022\ChucNangDatHangWebMyPham\ShopTrueLife\ShopTrueLife\bin\ShopTrueLife.dll.config
+C:\Users\hp\Desktop\NguyenCamLe_DoAn_2022\ChucNangDatHangWebMyPham\ShopTrueLife\ShopTrueLife\bin\ShopTrueLife.dll
+C:\Users\hp\Desktop\NguyenCamLe_DoAn_2022\ChucNangDatHangWebMyPham\ShopTrueLife\ShopTrueLife\bin\ShopTrueLife.pdb
+C:\Users\hp\Desktop\NguyenCamLe_DoAn_2022\ChucNangDatHangWebMyPham\ShopTrueLife\ShopTrueLife\bin\Antlr3.Runtime.dll
+C:\Users\hp\Desktop\NguyenCamLe_DoAn_2022\ChucNangDatHangWebMyPham\ShopTrueLife\ShopTrueLife\bin\EntityFramework.dll
+C:\Users\hp\Desktop\NguyenCamLe_DoAn_2022\ChucNangDatHangWebMyPham\ShopTrueLife\ShopTrueLife\bin\EntityFramework.SqlServer.dll
+C:\Users\hp\Desktop\NguyenCamLe_DoAn_2022\ChucNangDatHangWebMyPham\ShopTrueLife\ShopTrueLife\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hp\Desktop\NguyenCamLe_DoAn_2022\ChucNangDatHangWebMyPham\ShopTrueLife\ShopTrueLife\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\hp\Desktop\NguyenCamLe_DoAn_2022\ChucNangDatHangWebMyPham\ShopTrueLife\ShopTrueLife\bin\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\NguyenCamLe_DoAn_2022\ChucNangDatHangWebMyPham\ShopTrueLife\ShopTrueLife\bin\System.Net.Http.Formatting.dll
+C:\Users\hp\Desktop\NguyenCamLe_DoAn_2022\ChucNangDatHangWebMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.Helpers.dll
+C:\Users\hp\Desktop\NguyenCamLe_DoAn_2022\ChucNangDatHangWebMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.Http.dll
+C:\Users\hp\Desktop\NguyenCamLe_DoAn_2022\ChucNangDatHangWebMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.Http.WebHost.dll
+C:\Users\hp\Desktop\NguyenCamLe_DoAn_2022\ChucNangDatHangWebMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.Mvc.dll
+C:\Users\hp\Desktop\NguyenCamLe_DoAn_2022\ChucNangDatHangWebMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.Optimization.dll
+C:\Users\hp\Desktop\NguyenCamLe_DoAn_2022\ChucNangDatHangWebMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.Razor.dll
+C:\Users\hp\Desktop\NguyenCamLe_DoAn_2022\ChucNangDatHangWebMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hp\Desktop\NguyenCamLe_DoAn_2022\ChucNangDatHangWebMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.WebPages.dll
+C:\Users\hp\Desktop\NguyenCamLe_DoAn_2022\ChucNangDatHangWebMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.WebPages.Razor.dll
+C:\Users\hp\Desktop\NguyenCamLe_DoAn_2022\ChucNangDatHangWebMyPham\ShopTrueLife\ShopTrueLife\bin\WebGrease.dll
+C:\Users\hp\Desktop\NguyenCamLe_DoAn_2022\ChucNangDatHangWebMyPham\ShopTrueLife\ShopTrueLife\bin\Antlr3.Runtime.pdb
+C:\Users\hp\Desktop\NguyenCamLe_DoAn_2022\ChucNangDatHangWebMyPham\ShopTrueLife\ShopTrueLife\bin\EntityFramework.xml
+C:\Users\hp\Desktop\NguyenCamLe_DoAn_2022\ChucNangDatHangWebMyPham\ShopTrueLife\ShopTrueLife\bin\EntityFramework.SqlServer.xml
+C:\Users\hp\Desktop\NguyenCamLe_DoAn_2022\ChucNangDatHangWebMyPham\ShopTrueLife\ShopTrueLife\bin\Newtonsoft.Json.xml
+C:\Users\hp\Desktop\NguyenCamLe_DoAn_2022\ChucNangDatHangWebMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.Optimization.xml
+C:\Users\hp\Desktop\NguyenCamLe_DoAn_2022\ChucNangDatHangWebMyPham\ShopTrueLife\ShopTrueLife\bin\System.Net.Http.Formatting.xml
+C:\Users\hp\Desktop\NguyenCamLe_DoAn_2022\ChucNangDatHangWebMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.Helpers.xml
+C:\Users\hp\Desktop\NguyenCamLe_DoAn_2022\ChucNangDatHangWebMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.Http.xml
+C:\Users\hp\Desktop\NguyenCamLe_DoAn_2022\ChucNangDatHangWebMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.Http.WebHost.xml
+C:\Users\hp\Desktop\NguyenCamLe_DoAn_2022\ChucNangDatHangWebMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.Mvc.xml
+C:\Users\hp\Desktop\NguyenCamLe_DoAn_2022\ChucNangDatHangWebMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.Razor.xml
+C:\Users\hp\Desktop\NguyenCamLe_DoAn_2022\ChucNangDatHangWebMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.WebPages.xml
+C:\Users\hp\Desktop\NguyenCamLe_DoAn_2022\ChucNangDatHangWebMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hp\Desktop\NguyenCamLe_DoAn_2022\ChucNangDatHangWebMyPham\ShopTrueLife\ShopTrueLife\bin\System.Web.WebPages.Razor.xml
+C:\Users\hp\Desktop\NguyenCamLe_DoAn_2022\ChucNangDatHangWebMyPham\ShopTrueLife\ShopTrueLife\obj\Debug\ShopTrueLife.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\NguyenCamLe_DoAn_2022\ChucNangDatHangWebMyPham\ShopTrueLife\ShopTrueLife\obj\Debug\ShopTrueLife.csproj.ResolveComReference.cache
+C:\Users\hp\Desktop\NguyenCamLe_DoAn_2022\ChucNangDatHangWebMyPham\ShopTrueLife\ShopTrueLife\obj\Debug\ShopTrueLife.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\NguyenCamLe_DoAn_2022\ChucNangDatHangWebMyPham\ShopTrueLife\ShopTrueLife\obj\Debug\ShopTrueLife.csproj.CopyComplete
+C:\Users\hp\Desktop\NguyenCamLe_DoAn_2022\ChucNangDatHangWebMyPham\ShopTrueLife\ShopTrueLife\obj\Debug\ShopTrueLife.dll
+C:\Users\hp\Desktop\NguyenCamLe_DoAn_2022\ChucNangDatHangWebMyPham\ShopTrueLife\ShopTrueLife\obj\Debug\ShopTrueLife.pdb

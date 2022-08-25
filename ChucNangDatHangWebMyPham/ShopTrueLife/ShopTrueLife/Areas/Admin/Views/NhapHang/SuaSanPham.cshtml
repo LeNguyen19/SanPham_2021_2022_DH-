@@ -1,0 +1,76 @@
+﻿@model ShopTrueLife.Models.KetNoiLinq.SanPham
+
+@{
+    ViewBag.Title = "SuaSanPham";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<div class="container">
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        @Html.ValidationSummary(true)
+
+        <fieldset>
+            <legend style="font-weight:bold; color:#FA748F">SỬA THÔNG TIN SẢN PHẨM</legend>
+            <hr style="color:#FA748F" />
+
+            <div style="margin-left:10%">
+                <div id="left">
+                    <div class="editor-label">
+                        Mã Sản Phẩm
+                    </div>
+                    <div class="editor-field">
+                        @Html.EditorFor(model => model.ID_SanPham)
+                        @Html.ValidationMessageFor(model => model.ID_SanPham)
+                    </div>
+                    <div class="editor-label">
+                        Tên Sản Phẩm
+                    </div>
+                    <div class="editor-field">
+                        @Html.EditorFor(model => model.TenSanPham)
+                        @Html.ValidationMessageFor(model => model.TenSanPham)
+                    </div>
+
+                    <div class="editor-label">
+                        Giá Bán
+                    </div>
+                    <div class="editor-field">
+                        @Html.EditorFor(model => model.GiaBan)
+                        @Html.ValidationMessageFor(model => model.GiaBan)
+                    </div>
+
+                    <div class="editor-label">
+                        Mô Tả
+                    </div>
+                    <div class="editor-field">
+                        @Html.EditorFor(model => model.MoTaSanPham)
+                        @Html.ValidationMessageFor(model => model.MoTaSanPham)
+                    </div>
+
+                    <div class="editor-label">
+                        Số Lượng Tồn
+                    </div>
+                    <div class="editor-field">
+                        @Html.EditorFor(model => model.SoLuong)
+                        @Html.ValidationMessageFor(model => model.SoLuong)
+                    </div>
+
+                    <div class="editor-label">
+                        Mã Loại SP
+                    </div>
+                    <div class="editor-field">
+                        @Html.EditorFor(model => model.ID_LoaiSanPham)
+                        @Html.ValidationMessageFor(model => model.LoaiSanPham.TenLoaiSanPham)
+                    </div>
+                    <br />
+                    <p>
+                        <input style="border-radius:5px; background:#FA748F; border-color:#FA748F; color:white; width:25%; font-weight:bold;height: 38px" type="submit" value="Lưu Thông Tin" />
+                        <input href="~/Admin/SanPhamAdmin/SanPhamAdmin" style="border-radius:5px; background:#FA748F; border-color:#FA748F; color:white; margin-left:3%; width:25%; font-weight:bold;height: 38px" type="submit" value="Huỷ Lưu" />
+                    </p>
+                </div>
+            </div>
+        </fieldset>
+    }
+</div>

@@ -1,0 +1,4 @@
+F:\QLDatVeXe\CONTROLS\obj\Release\CONTROLS.csprojResolveAssemblyReference.cache
+F:\QLDatVeXe\CONTROLS\obj\Release\CONTROLS.Properties.Resources.resources
+F:\QLDatVeXe\CONTROLS\obj\Release\CONTROLS.XeGiuongNam.resources
+F:\QLDatVeXe\CONTROLS\obj\Release\CONTROLS.csproj.GenerateResource.Cache

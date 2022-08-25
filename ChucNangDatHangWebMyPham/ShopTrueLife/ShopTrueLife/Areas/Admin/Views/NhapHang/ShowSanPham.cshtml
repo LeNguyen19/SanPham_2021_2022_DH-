@@ -1,0 +1,134 @@
+﻿@model IEnumerable<ShopTrueLife.Areas.Admin.Models.pojoSanPham>
+
+@{
+    ViewBag.Title = "ShowSanPham";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<div class="container">
+    <br />
+    <h3 style="margin-left:37%; color:#FA748F; font-weight:bold">QUẢN LÝ SẢN PHẨM</h3>
+    <br />
+    @Html.ActionLink("Thêm Sản Phẩm", "ShowNhaCungCap", "NhaCungCap", new { style = "background-color:#FA748F; display:block; height:28px; width:118px; padding-left:15px; color:#ffffff; text-decoration:none; font-weight:bold" })
+    <br />
+     <table class="table table-bordered table-striped">
+        <tr style="background: #FA748F; color:#ffffff">
+            <th style="width: 100px">
+                Mã Sản Phẩm
+            </th>
+            <th style="width: 300px">
+                Tên Sản Phẩm
+            </th>
+            <th style="width: 50px">
+                Giá Bán
+            </th>
+            <th style="width: 500px">
+                Mô Tả
+            </th>
+            <th style="width: 100px">
+                Đường Dẫn
+            </th>
+            <th style="width: 100px">
+                Số Lượng
+            </th>
+            <th style="width: 50px">
+                Tên Loại SP
+            </th>
+            <th></th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td style="width: 50px">
+                    @Html.DisplayFor(modelItem => item.iID_SanPham)
+                </td>
+                <td style="width: 100px">
+                    @Html.DisplayFor(modelItem => item.sTenSanPham)
+                </td>
+                <td style="width: 100px">
+                    @Html.DisplayFor(modelItem => item.iGiaBan)
+                </td>
+                <td style="width: 100px">
+                    @Html.DisplayFor(modelItem => item.sMoTa)
+                </td>
+                <td style="width: 100px">
+                    <img src="~/Assets/img/@Html.DisplayFor(modelItem => item.sAnhBia)" width="80px" height="80px" />
+                </td>
+                <td style="width: 100px">
+                    @Html.DisplayFor(modelItem => item.iSoLuong)
+                </td>
+                <td style="width: 100px">
+                    @Html.DisplayFor(modelItem => item.sTenLoaiSanPham)
+                </td>
+                <td>
+                    <a style="background-color:#FA748F; display:block; height:28px; width:118px; padding-left:15px; color:#ffffff; text-decoration:none; font-weight:bold" @Html.ActionLink("Sửa", "SuaSanPham", new { @ma = item.iID_SanPham })> </a>
+                </td>
+                <td>
+                    @Html.ActionLink("Thêm Hình", "ThemHinhSanPham", "NhapHang", new { style = "background-color:#FA748F; display:block; height:28px; width:118px; padding-left:15px; color:#ffffff; text-decoration:none; font-weight:bold" })
+                </td>
+            </tr>
+        }
+    </table>
+</div>
+
+@*<div class="container">
+    <br />
+    <h3 style="margin-left:37%; color:#FA748F; font-weight:bold">QUẢN LÝ SẢN PHẨM</h3>
+    <br />
+    @Html.ActionLink("Thêm Sản Phẩm", "ThemSP", "SanPhamAdmin")
+    <table class="table table-bordered table-striped">
+        <tr style="background: #FA748F">
+            <th style="width: 100px">
+                Mã Sản Phẩm
+            </th>
+            <th style="width: 300px">
+                Tên Sản Phẩm
+            </th>
+            <th style="width: 50px">
+                Giá Bán
+            </th>
+            <th style="width: 500px">
+                Mô Tả
+            </th>
+            <th style="width: 100px">
+                Đường Dẫn
+            </th>
+            <th style="width: 100px">
+                Số Lượng
+            </th>
+            <th style="width: 50px">
+                Tên Loại SP
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td style="width: 50px">
+                    @Html.DisplayFor(modelItem => item.ID_SanPham)
+                </td>
+                <td style="width: 100px">
+                    @Html.DisplayFor(modelItem => item.TenSanPham)
+                </td>
+                <td style="width: 100px">
+                    @Html.DisplayFor(modelItem => item.GiaBan)
+                </td>
+                <td style="width: 100px">
+                    @Html.DisplayFor(modelItem => item.MoTaSanPham)
+                </td>
+                <td style="width: 100px">
+                    @Html.DisplayFor(modelItem => item.SoLuong)
+                </td>
+                <td style="width: 100px">
+                    @Html.DisplayFor(modelItem => item.LoaiSanPham.TenLoaiSanPham)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "SuaSanPham", new { @ma = item.ID_SanPham })
+                </td>
+            </tr>
+        }
+    </table>
+</div>*@

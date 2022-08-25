@@ -1,0 +1,78 @@
+﻿@{
+    ViewBag.Title = "LienHeUser";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+<div class="row" style="margin-top:63px">
+    <div class="col-sm-1"></div>
+    <div class="col-sm-10" style="padding:0;background:#ffffff">
+        <div class="row">
+            <div class="col-sm-3">
+                @Html.Action("DanhMucSP1", "DanhMucSanPham")
+            </div>
+           
+            <div class="col-sm-9" style="height:620  px"> 
+                <a style="margin-left:30%"><img src="~/Assets/img/TTLH.png" style="width:38%; height:15%" /></a>
+                <div class="row" style="margin-left:3%">
+                    <div class="col-sm-7" style="padding:0">
+                        <div style="background:#FFE7EC; height:300px; margin-top:15px">
+                            <br /><br />
+                            <a style="font-weight:bold;margin-left:3%">Chi nhánh 1:</a><br />
+                            <a style="margin-left:8%">Địa chỉ: 140 Lê Trọng Tấn - Tây Thạnh - Tân Phú - TP.Hồ Chí Minh<br /></a>
+                            <a style="margin-left:8%">Hotline: 012345678</a><br />
+                            <a style="margin-left:8%">Email: email@gmail.com</a>
+                            <br /><br />
+                            <a style="font-weight:bold;margin-left:3%">Chi nhánh 2:</a><br />
+                            <a style="margin-left:8%">Địa chỉ: 140 Lê Trọng Tấn - Tây Thạnh - Tân Phú - TP.Hồ Chí Minh<br /></a>
+                            <a style="margin-left:8%">Hotline: 012345678</a><br />
+                            <a style="margin-left:8%">Email: email@gmail.com</a>
+                        </div>
+                    </div>
+                    <div class="col-sm-5" style="margin-top:15px; padding:0">
+                        <div style="background:#FFE7EC; margin-right:70px; padding-top: 40px; height:300px">
+                            <img src="~/Assets/img/Map.jpg" style="width:80%; height:80%; margin-left:30px" />
+                        </div>
+                    </div>
+                </div> 
+                <br />
+                <h4>NHẬP PHẢN HỒI CỦA BẠN</h4>
+                @if (ViewBag.msg != null)
+                {
+                    <div style="padding-right:5%" class="alert alert-success">@ViewBag.msg</div>
+                }
+                @using (Html.BeginForm())
+                {
+                    <div>Nội dung phản hồi:<br /></div>
+                    <div class="input-group" style="padding-right:3%">
+                        
+                        <input type="text" name="body" class="form-control" />
+                        <input class="btn" style="background:#FA748F; color:#ffffff" type="submit" value="GỬI" /> 
+                    </div>
+                }        
+            </div>
+        </div>
+    </div>
+    <div class="col-sm-1"></div>
+</div>
+<div class="row">
+    <div class="auto-style1" style="background:#FA748F; color:#ffffff">
+        <a style="font-weight:bold">HỖ TRỢ KHÁCH HÀNG</a><br />
+        <a>Thắc mắc - Hỏi đáp</a><br />
+        <a>Hướng dẫn mua hàng</a><br />
+        <a>Đặt hàng & Thanh toán</a><br />
+    </div>
+    <div class="auto-style1" style="background:#FA748F; color:#ffffff">
+        <a style="font-weight:bold">THÔNG TIN LIÊN HỆ</a><br />
+        <a>140 Lê Trọng Tấn, Tây Thạnh, Tân Phú </a><br />
+        <a>Hotline: 012345678 - 098765432</a><br />
+        <a>Tư vấn bán hàng từ(8h - 20h thứ 2 - chủ nhật)</a><br />
+    </div>
+    <div class="auto-style1" style="background:#FA748F; color:#ffffff">
+        <a style="font-weight:bold">KẾT NỐI VỚI CHÚNG TÔI</a><br />
+        <a></a><br />
+        <a href="https://www.facebook.com/"><img src="~/Assets/img/fb.jpg" style="width:40px; height:40px;" href="#" /></a>
+        <a href="https://www.instagram.com/"><img src="~/Assets/img/IG.jpg" style="width:40px; height:40px;" href="#" /></a>
+        <a href="https://www.twitter.com/"><img src="~/Assets/img/wb.jpg" style="width:40px; height:40px;" href="#" /></a>
+        <br />
+        <a></a><br />
+    </div>
+</div>

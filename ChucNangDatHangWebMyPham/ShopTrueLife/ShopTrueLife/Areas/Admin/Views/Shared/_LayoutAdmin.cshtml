@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+<style>
+    #font_a {
+        text-decoration: none;
+        color: white;
+    }
+
+        #font_a:hover {
+            color: #000000;
+        }
+</style>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js"></script>
+    <link type="text/css" rel="stylesheet" href="@Url.Content("/Assets/css/Style.css")" />
+</head>
+<body>
+    <div class="row">
+        <div class="col-sm-2" style="background:#FA748F">
+            <div style="height:130px; background:#FA748F">
+                <a href="~/Admin/ViewThongKe"><img src="~/Assets/img/avt_admin.png" style="height:115px; width:130px; margin-left:50px; margin-top:8px" href="#" /></a>
+            </div>
+            <hr style="color:#434343; margin:0" />
+            <ul class="list-group list-group-flush text-left">
+                <li class="list-group-item" style="background: #FA748F; height:50px; padding-top:12px">
+                    <a href="~/Admin/NhapHang/ShowSanPham" style=" text-decoration:none; color:white; font-size:large;font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif; font-weight:bold">QUẢN LÝ SẢN PHẨM</a>
+                </li>
+                <li class="list-group-item" style="background: #FA748F; height:50px; padding-top:12px">
+                    <a href="~/Admin/QuanLyDonHang/QLDonHang" style=" text-decoration:none; color:white; font-size:large;font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;font-weight:bold">QUẢN LÝ ĐƠN HÀNG</a>
+                </li>
+            </ul>
+            <hr style="color:#434343; margin:0" />
+            <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+        </div>
+
+        <div class="col-sm-10" style="padding:0">
+            <div style="background:#FA748F; height:40px">
+                <div class="row">
+                    <div class="col-sm-10">
+                        <a style="color:white;font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif"><img src="~/Assets/img/home.PNG" style="height:38px; width:55px;" />Xin Chào</a>
+                    </div>
+                    <div class="col-sm-2" style="padding-top:5px">
+                        <a href="~/Home/ViewTrangChu" style="color:white; text-decoration:none;font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif">Quay về trang Web</a>
+                    </div>
+                </div>
+            </div>
+            <div class="container" style="padding-left:20px">
+                @RenderBody()
+            </div>
+        </div>
+    </div>
+</body>
+</html>

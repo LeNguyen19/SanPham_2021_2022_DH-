@@ -1,0 +1,13 @@
+F:\QLDatVeXe\FireBase\bin\Debug\FireBase.dll
+F:\QLDatVeXe\FireBase\bin\Debug\FireBase.pdb
+F:\QLDatVeXe\FireBase\bin\Debug\DTO.dll
+F:\QLDatVeXe\FireBase\bin\Debug\FireSharp.dll
+F:\QLDatVeXe\FireBase\bin\Debug\Microsoft.Threading.Tasks.dll
+F:\QLDatVeXe\FireBase\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+F:\QLDatVeXe\FireBase\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+F:\QLDatVeXe\FireBase\bin\Debug\Newtonsoft.Json.dll
+F:\QLDatVeXe\FireBase\bin\Debug\DTO.pdb
+F:\QLDatVeXe\FireBase\bin\Debug\Newtonsoft.Json.xml
+F:\QLDatVeXe\FireBase\obj\Debug\FireBase.csprojResolveAssemblyReference.cache
+F:\QLDatVeXe\FireBase\obj\Debug\FireBase.dll
+F:\QLDatVeXe\FireBase\obj\Debug\FireBase.pdb

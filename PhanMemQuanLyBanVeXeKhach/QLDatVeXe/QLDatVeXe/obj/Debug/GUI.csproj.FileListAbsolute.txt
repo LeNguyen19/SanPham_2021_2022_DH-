@@ -1,0 +1,159 @@
+C:\Users\Bridget\OneDrive\Máy tính\demoDatVeXe\QLDatVeXe\QLDatVeXe\bin\Debug\QLDatVeXe.exe.config
+C:\Users\Bridget\OneDrive\Máy tính\demoDatVeXe\QLDatVeXe\QLDatVeXe\bin\Debug\QLDatVeXe.exe
+C:\Users\Bridget\OneDrive\Máy tính\demoDatVeXe\QLDatVeXe\QLDatVeXe\bin\Debug\QLDatVeXe.pdb
+C:\Users\Bridget\OneDrive\Máy tính\demoDatVeXe\QLDatVeXe\QLDatVeXe\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Bridget\OneDrive\Máy tính\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmDangNhap.resources
+C:\Users\Bridget\OneDrive\Máy tính\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmHoSo.resources
+C:\Users\Bridget\OneDrive\Máy tính\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmMain.resources
+C:\Users\Bridget\OneDrive\Máy tính\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.Properties.Resources.resources
+C:\Users\Bridget\OneDrive\Máy tính\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Bridget\OneDrive\Máy tính\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.exe
+C:\Users\Bridget\OneDrive\Máy tính\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.pdb
+C:\Users\Bridget\OneDrive\Máy tính\demoDatVeXe\QLDatVeXe\QLDatVeXe\bin\Debug\CONTROLS.dll
+C:\Users\Bridget\OneDrive\Máy tính\demoDatVeXe\QLDatVeXe\QLDatVeXe\bin\Debug\CONTROLS.pdb
+C:\Users\Bridget\OneDrive\Máy tính\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Bridget\OneDrive\Máy tính\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmBanVe.resources
+C:\Users\Bridget\OneDrive\Máy tính\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmDatCho.resources
+C:\Users\Bridget\OneDrive\Máy tính\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmTraCuu.resources
+C:\Users\Bridget\OneDrive\Máy tính\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmQuanLyTaiKhoan.resources
+C:\Users\Bridget\OneDrive\Máy tính\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmQuanLyNhanVien.resources
+E:\demoDatVeXe\QLDatVeXe\QLDatVeXe\bin\Debug\QLDatVeXe.exe.config
+E:\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.exe
+E:\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.pdb
+E:\demoDatVeXe\QLDatVeXe\QLDatVeXe\bin\Debug\QLDatVeXe.exe
+E:\demoDatVeXe\QLDatVeXe\QLDatVeXe\bin\Debug\QLDatVeXe.pdb
+E:\demoDatVeXe\QLDatVeXe\QLDatVeXe\bin\Debug\CONTROLS.dll
+E:\demoDatVeXe\QLDatVeXe\QLDatVeXe\bin\Debug\CONTROLS.pdb
+E:\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmBanVe.resources
+E:\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmDangNhap.resources
+E:\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmDatCho.resources
+E:\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmHoSo.resources
+E:\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmMain.resources
+E:\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmQuanLyNhanVien.resources
+E:\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmQuanLyTaiKhoan.resources
+E:\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmTraCuu.resources
+E:\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.Properties.Resources.resources
+E:\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Bridget\OneDrive\Máy tính\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmLichDonKhach.resources
+C:\Users\Bridget\OneDrive\Máy tính\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmLichTraKhach.resources
+C:\Users\hp\Desktop\demoDatVeXe\QLDatVeXe\QLDatVeXe\bin\Debug\QLDatVeXe.exe.config
+C:\Users\hp\Desktop\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.exe
+C:\Users\hp\Desktop\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.pdb
+C:\Users\hp\Desktop\demoDatVeXe\QLDatVeXe\QLDatVeXe\bin\Debug\QLDatVeXe.exe
+C:\Users\hp\Desktop\demoDatVeXe\QLDatVeXe\QLDatVeXe\bin\Debug\QLDatVeXe.pdb
+C:\Users\hp\Desktop\demoDatVeXe\QLDatVeXe\QLDatVeXe\bin\Debug\CONTROLS.dll
+C:\Users\hp\Desktop\demoDatVeXe\QLDatVeXe\QLDatVeXe\bin\Debug\CONTROLS.pdb
+C:\Users\hp\Desktop\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmBanVe.resources
+C:\Users\hp\Desktop\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmDangNhap.resources
+C:\Users\hp\Desktop\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmDatCho.resources
+C:\Users\hp\Desktop\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmHoSo.resources
+C:\Users\hp\Desktop\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmLichDonKhach.resources
+C:\Users\hp\Desktop\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmLichTraKhach.resources
+C:\Users\hp\Desktop\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmMain.resources
+C:\Users\hp\Desktop\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmQuanLyNhanVien.resources
+C:\Users\hp\Desktop\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmQuanLyTaiKhoan.resources
+C:\Users\hp\Desktop\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmTraCuu.resources
+C:\Users\hp\Desktop\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.Properties.Resources.resources
+C:\Users\hp\Desktop\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmQuanLyLichChay.resources
+C:\Users\hp\Desktop\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmXepLichChay.resources
+C:\Users\hp\Desktop\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmQuanLyXe.resources
+C:\Users\Bridget\Downloads\demoDatVeXe\QLDatVeXe\QLDatVeXe\bin\Debug\QLDatVeXe.exe.config
+C:\Users\Bridget\Downloads\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.exe
+C:\Users\Bridget\Downloads\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.pdb
+C:\Users\Bridget\Downloads\demoDatVeXe\QLDatVeXe\QLDatVeXe\bin\Debug\QLDatVeXe.exe
+C:\Users\Bridget\Downloads\demoDatVeXe\QLDatVeXe\QLDatVeXe\bin\Debug\QLDatVeXe.pdb
+C:\Users\Bridget\Downloads\demoDatVeXe\QLDatVeXe\QLDatVeXe\bin\Debug\CONTROLS.dll
+C:\Users\Bridget\Downloads\demoDatVeXe\QLDatVeXe\QLDatVeXe\bin\Debug\CONTROLS.pdb
+C:\Users\Bridget\Downloads\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Bridget\Downloads\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmBanVe.resources
+C:\Users\Bridget\Downloads\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmDangNhap.resources
+C:\Users\Bridget\Downloads\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmDatCho.resources
+C:\Users\Bridget\Downloads\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmHoSo.resources
+C:\Users\Bridget\Downloads\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmLichDonKhach.resources
+C:\Users\Bridget\Downloads\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmLichTraKhach.resources
+C:\Users\Bridget\Downloads\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmMain.resources
+C:\Users\Bridget\Downloads\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmQuanLyLichChay.resources
+C:\Users\Bridget\Downloads\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmQuanLyNhanVien.resources
+C:\Users\Bridget\Downloads\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmQuanLyTaiKhoan.resources
+C:\Users\Bridget\Downloads\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmQuanLyXe.resources
+C:\Users\Bridget\Downloads\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmTraCuu.resources
+C:\Users\Bridget\Downloads\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmXepLichChay.resources
+C:\Users\Bridget\Downloads\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.Properties.Resources.resources
+C:\Users\Bridget\Downloads\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmBanVe.resources
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmDangNhap.resources
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmDatCho.resources
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmHoSo.resources
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmLichDonKhach.resources
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmLichTraKhach.resources
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmMain.resources
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmQuanLyKhachHang.resources
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmQuanLyLichChay.resources
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmQuanLyNhanVien.resources
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmQuanLyTaiKhoan.resources
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmQuanLyXe.resources
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmTraCuu.resources
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmXepLichChay.resources
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.Properties.Resources.resources
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\QLDatVeXe\bin\Debug\QLDatVeXe.exe.config
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\QLDatVeXe\bin\Debug\QLDatVeXe.exe
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\QLDatVeXe\bin\Debug\QLDatVeXe.pdb
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\QLDatVeXe\bin\Debug\BLL.dll
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\QLDatVeXe\bin\Debug\CONTROLS.dll
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\QLDatVeXe\bin\Debug\DTO.dll
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\QLDatVeXe\bin\Debug\DAL.dll
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\QLDatVeXe\bin\Debug\FireSharp.dll
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\QLDatVeXe\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\QLDatVeXe\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\QLDatVeXe\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\QLDatVeXe\bin\Debug\BLL.pdb
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\QLDatVeXe\bin\Debug\CONTROLS.pdb
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\QLDatVeXe\bin\Debug\DTO.pdb
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\QLDatVeXe\bin\Debug\DAL.pdb
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\QLDatVeXe\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\QLDatVeXe\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\QLDatVeXe\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.exe
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.pdb
+F:\QLDatVeXe\QLDatVeXe\bin\Debug\QLDatVeXe.exe.config
+F:\QLDatVeXe\QLDatVeXe\bin\Debug\QLDatVeXe.exe
+F:\QLDatVeXe\QLDatVeXe\bin\Debug\QLDatVeXe.pdb
+F:\QLDatVeXe\QLDatVeXe\bin\Debug\BLL.dll
+F:\QLDatVeXe\QLDatVeXe\bin\Debug\CONTROLS.dll
+F:\QLDatVeXe\QLDatVeXe\bin\Debug\Dijkstra.dll
+F:\QLDatVeXe\QLDatVeXe\bin\Debug\DTO.dll
+F:\QLDatVeXe\QLDatVeXe\bin\Debug\Export.dll
+F:\QLDatVeXe\QLDatVeXe\bin\Debug\DAL.dll
+F:\QLDatVeXe\QLDatVeXe\bin\Debug\Syncfusion.XlsIO.Base.dll
+F:\QLDatVeXe\QLDatVeXe\bin\Debug\Syncfusion.DocIO.Base.dll
+F:\QLDatVeXe\QLDatVeXe\bin\Debug\Syncfusion.Compression.Base.dll
+F:\QLDatVeXe\QLDatVeXe\bin\Debug\BLL.pdb
+F:\QLDatVeXe\QLDatVeXe\bin\Debug\CONTROLS.pdb
+F:\QLDatVeXe\QLDatVeXe\bin\Debug\Dijkstra.pdb
+F:\QLDatVeXe\QLDatVeXe\bin\Debug\DTO.pdb
+F:\QLDatVeXe\QLDatVeXe\bin\Debug\Export.pdb
+F:\QLDatVeXe\QLDatVeXe\bin\Debug\DAL.pdb
+F:\QLDatVeXe\QLDatVeXe\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+F:\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmBanVe.resources
+F:\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmDangNhap.resources
+F:\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmDatCho.resources
+F:\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmHoSo.resources
+F:\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmDijkstra.resources
+F:\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmMain.resources
+F:\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmQuanLyKhachHang.resources
+F:\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmQuanLyLichChay.resources
+F:\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmQuanLyNhanVien.resources
+F:\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmQuanLyTaiKhoan.resources
+F:\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmQuanLyXe.resources
+F:\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmTraCuu.resources
+F:\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmXepLichChay.resources
+F:\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.Properties.Resources.resources
+F:\QLDatVeXe\QLDatVeXe\obj\Debug\GUI.csproj.GenerateResource.Cache
+F:\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.exe
+F:\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.pdb
+F:\QLDatVeXe\QLDatVeXe\obj\Debug\QLDatVeXe.frmThongKeDoanhThu.resources

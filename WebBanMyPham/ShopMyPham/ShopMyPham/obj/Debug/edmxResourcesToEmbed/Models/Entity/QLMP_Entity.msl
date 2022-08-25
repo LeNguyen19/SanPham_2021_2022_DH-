@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="QL_MyPhamModelStoreContainer" CdmEntityContainer="QL_MyPhamEntities2">
+    <EntitySetMapping Name="ChiTietDonHang">
+      <EntityTypeMapping TypeName="QL_MyPhamModel.ChiTietDonHang">
+        <MappingFragment StoreEntitySet="ChiTietDonHang">
+          <ScalarProperty Name="MaDonHang" ColumnName="MaDonHang" />
+          <ScalarProperty Name="MaSP" ColumnName="MaSP" />
+          <ScalarProperty Name="SoLuong" ColumnName="SoLuong" />
+          <ScalarProperty Name="DonGia" ColumnName="DonGia" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ChiTietNhapHang">
+      <EntityTypeMapping TypeName="QL_MyPhamModel.ChiTietNhapHang">
+        <MappingFragment StoreEntitySet="ChiTietNhapHang">
+          <ScalarProperty Name="MaNhapHang" ColumnName="MaNhapHang" />
+          <ScalarProperty Name="MaSP" ColumnName="MaSP" />
+          <ScalarProperty Name="SoLuong" ColumnName="SoLuong" />
+          <ScalarProperty Name="DonGia" ColumnName="DonGia" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DonHang">
+      <EntityTypeMapping TypeName="QL_MyPhamModel.DonHang">
+        <MappingFragment StoreEntitySet="DonHang">
+          <ScalarProperty Name="MaDonHang" ColumnName="MaDonHang" />
+          <ScalarProperty Name="NgayDat" ColumnName="NgayDat" />
+          <ScalarProperty Name="DaThanhToan" ColumnName="DaThanhToan" />
+          <ScalarProperty Name="TinhTrangGiaoHang" ColumnName="TinhTrangGiaoHang" />
+          <ScalarProperty Name="MaKH" ColumnName="MaKH" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LoaiSanPham">
+      <EntityTypeMapping TypeName="QL_MyPhamModel.LoaiSanPham">
+        <MappingFragment StoreEntitySet="LoaiSanPham">
+          <ScalarProperty Name="MaLoaiSP" ColumnName="MaLoaiSP" />
+          <ScalarProperty Name="TenLoaiSP" ColumnName="TenLoaiSP" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NhaCungCap">
+      <EntityTypeMapping TypeName="QL_MyPhamModel.NhaCungCap">
+        <MappingFragment StoreEntitySet="NhaCungCap">
+          <ScalarProperty Name="MaNCC" ColumnName="MaNCC" />
+          <ScalarProperty Name="TenNCC" ColumnName="TenNCC" />
+          <ScalarProperty Name="DiaChi" ColumnName="DiaChi" />
+          <ScalarProperty Name="DienThoai" ColumnName="DienThoai" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NhapHang">
+      <EntityTypeMapping TypeName="QL_MyPhamModel.NhapHang">
+        <MappingFragment StoreEntitySet="NhapHang">
+          <ScalarProperty Name="MaNhapHang" ColumnName="MaNhapHang" />
+          <ScalarProperty Name="NgayNhap" ColumnName="NgayNhap" />
+          <ScalarProperty Name="DaThanhToan" ColumnName="DaThanhToan" />
+          <ScalarProperty Name="MaNCC" ColumnName="MaNCC" />
+          <ScalarProperty Name="MaNV" ColumnName="MaNV" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SanPham">
+      <EntityTypeMapping TypeName="QL_MyPhamModel.SanPham">
+        <MappingFragment StoreEntitySet="SanPham">
+          <ScalarProperty Name="MaSP" ColumnName="MaSP" />
+          <ScalarProperty Name="TenSP" ColumnName="TenSP" />
+          <ScalarProperty Name="GiaBan" ColumnName="GiaBan" />
+          <ScalarProperty Name="MoTa" ColumnName="MoTa" />
+          <ScalarProperty Name="AnhBia" ColumnName="AnhBia" />
+          <ScalarProperty Name="SoLuongTon" ColumnName="SoLuongTon" />
+          <ScalarProperty Name="MaNCC" ColumnName="MaNCC" />
+          <ScalarProperty Name="MaLoaiSP" ColumnName="MaLoaiSP" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ThongTin">
+      <EntityTypeMapping TypeName="QL_MyPhamModel.ThongTin">
+        <MappingFragment StoreEntitySet="ThongTin">
+          <ScalarProperty Name="Ma" ColumnName="Ma" />
+          <ScalarProperty Name="HoTen" ColumnName="HoTen" />
+          <ScalarProperty Name="GioTinh" ColumnName="GioTinh" />
+          <ScalarProperty Name="DiaChi" ColumnName="DiaChi" />
+          <ScalarProperty Name="DienThoai" ColumnName="DienThoai" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="TaiKhoan" ColumnName="TaiKhoan" />
+          <ScalarProperty Name="MatKhau" ColumnName="MatKhau" />
+          <ScalarProperty Name="ChucVu" ColumnName="ChucVu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="SuaChiTietDonHang" FunctionName="QL_MyPhamModel.Store.SuaChiTietDonHang" />
+    <FunctionImportMapping FunctionImportName="SuaDonHang" FunctionName="QL_MyPhamModel.Store.SuaDonHang" />
+    <FunctionImportMapping FunctionImportName="SuaKH" FunctionName="QL_MyPhamModel.Store.SuaKH" />
+    <FunctionImportMapping FunctionImportName="SuaLoaiSanPham" FunctionName="QL_MyPhamModel.Store.SuaLoaiSanPham" />
+    <FunctionImportMapping FunctionImportName="SuaNhaCungCap" FunctionName="QL_MyPhamModel.Store.SuaNhaCungCap" />
+    <FunctionImportMapping FunctionImportName="SuaNV" FunctionName="QL_MyPhamModel.Store.SuaNV" />
+    <FunctionImportMapping FunctionImportName="SuaSanPham" FunctionName="QL_MyPhamModel.Store.SuaSanPham" />
+    <FunctionImportMapping FunctionImportName="ThemChiTietDonHang" FunctionName="QL_MyPhamModel.Store.ThemChiTietDonHang" />
+    <FunctionImportMapping FunctionImportName="ThemChiTietNhapHang" FunctionName="QL_MyPhamModel.Store.ThemChiTietNhapHang" />
+    <FunctionImportMapping FunctionImportName="ThemDonHang" FunctionName="QL_MyPhamModel.Store.ThemDonHang" />
+    <FunctionImportMapping FunctionImportName="ThemLoaiSanPham" FunctionName="QL_MyPhamModel.Store.ThemLoaiSanPham" />
+    <FunctionImportMapping FunctionImportName="ThemNhaCungCap" FunctionName="QL_MyPhamModel.Store.ThemNhaCungCap" />
+    <FunctionImportMapping FunctionImportName="ThemNhapHang" FunctionName="QL_MyPhamModel.Store.ThemNhapHang" />
+    <FunctionImportMapping FunctionImportName="ThemNV" FunctionName="QL_MyPhamModel.Store.ThemNV" />
+    <FunctionImportMapping FunctionImportName="ThemSanPham" FunctionName="QL_MyPhamModel.Store.ThemSanPham" />
+    <FunctionImportMapping FunctionImportName="UpdateDHDaGiaoHang" FunctionName="QL_MyPhamModel.Store.UpdateDHDaGiaoHang" />
+    <FunctionImportMapping FunctionImportName="UpdateDHDaThanhToan" FunctionName="QL_MyPhamModel.Store.UpdateDHDaThanhToan" />
+    <FunctionImportMapping FunctionImportName="XoaAllChiTietSanPham" FunctionName="QL_MyPhamModel.Store.XoaAllChiTietSanPham" />
+    <FunctionImportMapping FunctionImportName="XoaChiTietSanPham" FunctionName="QL_MyPhamModel.Store.XoaChiTietSanPham" />
+    <FunctionImportMapping FunctionImportName="XoaDonHang" FunctionName="QL_MyPhamModel.Store.XoaDonHang" />
+    <FunctionImportMapping FunctionImportName="XoaKH" FunctionName="QL_MyPhamModel.Store.XoaKH" />
+    <FunctionImportMapping FunctionImportName="XoaLoaiSanPham" FunctionName="QL_MyPhamModel.Store.XoaLoaiSanPham" />
+    <FunctionImportMapping FunctionImportName="XoaNhaCungCap" FunctionName="QL_MyPhamModel.Store.XoaNhaCungCap" />
+    <FunctionImportMapping FunctionImportName="XoaNV" FunctionName="QL_MyPhamModel.Store.XoaNV" />
+    <FunctionImportMapping FunctionImportName="XoaSanPham" FunctionName="QL_MyPhamModel.Store.XoaSanPham" />
+  </EntityContainerMapping>
+</Mapping>

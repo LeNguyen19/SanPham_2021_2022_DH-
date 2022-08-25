@@ -1,0 +1,139 @@
+﻿@model ShopTrueLife.Models.POJO.TrangChiTietSanPham
+
+@{
+    ViewBag.Title = "ChiTietSanPham";
+    Layout = "~/Views/Shared/_LayoutHome.cshtml";
+}
+
+<style>
+    .auto-style1 {
+        flex: 0 0 auto;
+        width: 33.33333333%;
+        text-align: center;
+        font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    }
+</style>
+
+<br />
+<h3 style="color:#FA748F; font-weight:bold; text-align:center">XEM CHI TIẾT SẢN PHẨM</h3>
+<br />
+
+<center>
+    <div class="col-sm-9" style="height:555px">
+        <div class="container" style=" padding-top:5px">
+
+            <div class="row">
+                <div class="col-md-5" style="background:#F1F1F1; padding-top:30px">
+                    <div>
+                        <div style="height: 300px; width: 70%">
+                            <img src="~/Assets/img/@Html.DisplayFor(model => model.lsDuongDan.Where(h => h.TrangThai ==1).FirstOrDefault().DuongDanHinh)" class="card-img-top" width="70%" height="100%" />
+                        </div>
+                        <div id="demo" class="carousel slide" data-bs-ride="carousel" style="height: 200px; width: 100%; padding-top:20px">
+
+                            <!-- Indicators/dots -->
+                            <div class="carousel-indicators">
+                                <button type="button" data-bs-target="#demo" data-bs-slide-to="0" class="active"></button>
+                                <button type="button" data-bs-target="#demo" data-bs-slide-to="1"></button>
+                                <button type="button" data-bs-target="#demo" data-bs-slide-to="2"></button>
+                            </div>
+
+                            <!-- The slideshow/carousel -->
+                            <div class="carousel-inner">
+                                <div class="carousel-item active">
+                                    <img src="~/Assets/img/@Html.DisplayFor(model => model.lsDuongDan.Where(h => h.TrangThai ==1).FirstOrDefault().DuongDanHinh)" alt="Los Angeles" style="height: 200px; width: 200px">@*class="d-block w-100"*@
+                                </div>
+                                @foreach (var item in Model.lsDuongDan.Where(h => h.TrangThai == 0).ToList())
+                                {
+                                    <div class="carousel-item">
+                                        <img src="~/Assets/img/@item.DuongDanHinh" alt=" chicago" style="height: 200px; width: 200px">
+                                    </div>
+                                }
+
+                            </div>
+
+                            <!-- Left and right controls/icons -->
+                            <button class="carousel-control-prev"  type="button" data-bs-target="#demo" data-bs-slide="prev">
+                                <span style="background-color:#000000" class="carousel-control-prev-icon"></span>
+                            </button>
+                            <button class="carousel-control-next"  type="button" data-bs-target="#demo" data-bs-slide="next">
+                                <span style="background-color:#000000" class="carousel-control-next-icon"></span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-7" style=" padding:0">
+                    <div style="background:#F1F1F1; margin-right:20px;padding-top:160px; height:380px">
+                        <table style="text-align:left; ">
+                            <tr>
+                                <td style="width:25%; font-weight:bold">Tên sản phẩm:</td>
+                                <td style="width:380px">@Html.DisplayFor(model => model.sTenSanPham)</td>
+                            </tr>
+                            <tr>
+                                <td style="width:20%; font-weight:bold">Số lượng còn:</td>
+                                <td style="width:380px">@Html.DisplayFor(model => model.iSoLuong)</td>
+                            </tr>
+                            <tr>
+                                <td style="width:20%; font-weight:bold">Mô tả:</td>
+                                <td style="width:380px">@Html.DisplayFor(model => model.sMoTaSanPham)</td>
+                            </tr>
+                            <tr>
+                                <td style="width:20%; font-weight:bold">Giá bán:</td>
+                                <td style="color:#FA748F; width:200px;font-weight:bold">@Html.DisplayFor(model => model.iGiaBan) VND</td>
+                            </tr>
+                        </table>
+                    </div>
+                    <div style="background:#F1F1F1; height:200px; margin-right:20px">
+                        <a href="@Url.Action("DangNhap", "KhachHang")" style="margin-left:10px"><input type="submit" value="MUA NGAY" class="btn" style="background:#FA748F; color:white; font-weight:bold" /></a>
+                        <a href="@Url.Action("ViewSanPham","Home")" style="margin-left:5%"><input type="submit" value="MUA TIẾP" class="btn" style="background:#FA748F; color:white; font-weight:bold" /></a>
+                    </div>
+                </div>
+            </div>
+            <br />
+            @*<div>
+                <div>All CMT</div>
+                <table style="text-align:left; ">
+
+                    @foreach (var item in Model.lsCMT)
+                    {
+                        <tr>
+                            <td style="width:25%; font-weight:bold">@item.sHoTenKH</td>
+                            <td style="width:25%; font-weight:bold">@item.dNgayBinhLuan</td>
+                            <td style="width:380px">@item.sNoiDung</td>
+                        </tr>
+                    }
+                </table>
+
+            </div>*@
+        </div>
+    </div>
+    <br />
+    <br />
+    <br />
+
+    <div class="row">
+        <div class="auto-style1" style="background:#FA748F; color:#ffffff">
+            <br />
+            <a style="font-weight:bold">HỖ TRỢ KHÁCH HÀNG</a><br />
+            <a>Thắc mắc - Hỏi đáp</a><br />
+            <a>Hướng dẫn mua hàng</a><br />
+            <a>Đặt hàng & Thanh toán</a><br />
+        </div>
+        <div class="auto-style1" style="background:#FA748F; color:#ffffff">
+            <br />
+            <a style="font-weight:bold">THÔNG TIN LIÊN HỆ</a><br />
+            <a>140 Lê Trọng Tấn, Tây Thạnh, Tân Phú </a><br />
+            <a>Hotline: 012345678 - 098765432</a><br />
+            <a>Tư vấn bán hàng từ(8h - 20h thứ 2 - chủ nhật)</a><br />
+        </div>
+        <div class="auto-style1" style="background:#FA748F; color:#ffffff">
+            <br />
+            <a style="font-weight:bold">KẾT NỐI VỚI CHÚNG TÔI</a><br />
+            <a></a><br />
+            <a href="https://www.facebook.com/"><img src="~/Assets/img/fb.jpg" style="width:40px; height:40px;" href="#" /></a>
+            <a href="https://www.instagram.com/"><img src="~/Assets/img/IG.jpg" style="width:40px; height:40px;" href="#" /></a>
+            <a href="https://www.twitter.com/"><img src="~/Assets/img/wb.jpg" style="width:40px; height:40px;" href="#" /></a>
+            <br />
+            <a></a><br />
+        </div>
+    </div>
+</center>

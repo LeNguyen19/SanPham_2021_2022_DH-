@@ -1,0 +1,10 @@
+F:\QLDatVeXe\Export\bin\Release\Export.dll
+F:\QLDatVeXe\Export\bin\Release\Export.pdb
+F:\QLDatVeXe\Export\bin\Release\DTO.dll
+F:\QLDatVeXe\Export\bin\Release\Syncfusion.Compression.Base.dll
+F:\QLDatVeXe\Export\bin\Release\Syncfusion.DocIO.Base.dll
+F:\QLDatVeXe\Export\bin\Release\Syncfusion.XlsIO.Base.dll
+F:\QLDatVeXe\Export\bin\Release\DTO.pdb
+F:\QLDatVeXe\Export\obj\Release\Export.csprojResolveAssemblyReference.cache
+F:\QLDatVeXe\Export\obj\Release\Export.dll
+F:\QLDatVeXe\Export\obj\Release\Export.pdb

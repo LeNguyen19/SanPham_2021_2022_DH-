@@ -1,0 +1,56 @@
+﻿@model IEnumerable<ShopTrueLife.Areas.Admin.Models.pojoQLDonHang>
+@{
+    ViewBag.Title = "QLDonHang";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+
+<div class="container">
+    <br />
+    <h3 style="margin-left:37%; color:#FA748F; font-weight:bold">QUẢN LÝ ĐƠN HÀNG</h3>
+    <br />
+    <table class="table table-bordered table-striped">
+        <tr style="background-color:#FA748F">
+            <th style="color:#ffffff">Mã Hoá Đơn</th>
+            <th style="color:#ffffff">Mã Khách Hàng</th>
+            <th style="color:#ffffff">Ngày Mua Hàng</th>
+            <th style="color:#ffffff">Trạng Thái</th>
+            <th style="color:#ffffff"></th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.iMaDH</td>
+                <td>@item.iMaKH</td>
+                <td>@item.dNgayDat</td>
+                <td>
+                    
+                    <a class="btn" style="background:#FA748F; color:white;  font-size:small; font-weight:bold; text-decoration:none" @Html.ActionLink("Cập nhật trạng thái", "CapNhatTrangThai", new { @ma = item.iMaDH })> </a>
+                    <br />
+                    <a>
+                        @if (item.iTrangThai == 0)
+                        {
+                            <a>Đơn hàng đang được xử lý</a>
+                        }
+                        else if (item.iTrangThai == 1)
+                        {
+                            <a>Đơn hàng đã được xác nhận</a>
+                        }
+                        else if (item.iTrangThai == 2)
+                        {
+                            <a>Đơn hàng đang được giao</a>
+                        }
+                        else if (item.iTrangThai == 3)
+                        {
+                            <a>Khách hàng đã nhận đơn hàng</a>
+                        }
+                    </a>
+                </td>
+                <td>
+                    @*@Html.ActionLink("Xem Chi Tiết", "XemChiTietDonHang", "QuanLyDonHang", new { style = "background-color:#FA748F; display:block; height:28px; width:118px; padding-left:15px; color:#ffffff; text-decoration:none; font-weight:bold" })*@
+                    <a class="btn" style="background:#FA748F; color:white;  font-size:small; font-weight:bold" href="@Url.Action("XemChiTietDonHang", "QuanLyDonHang", new { @maDH = item.iMaDH })">Xem Chi Tiết</a>
+                </td>
+            </tr>
+        }
+    </table>
+</div>

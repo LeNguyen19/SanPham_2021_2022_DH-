@@ -1,0 +1,23 @@
+﻿@{
+    ViewBag.Title = "ThemHinhSanPham";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+<div></div>
+<div></div>
+<div class="container">
+    <br />
+    <h3 style="margin-left:37%; color:#FA748F; font-weight:bold">THÊM HÌNH ẢNH SẢN PHẨM</h3>
+    <br />
+    @using (Html.BeginForm("ThemHinhSanPham", "NhapHang", FormMethod.Get))
+    {
+        <div style="background:#FA748F; padding-top:12px">
+            <input placeholder="Nhập mã sản phẩm" class="form-control me-2" type="text" name="MaSP" />
+        </div>
+        <div style="background:#FA748F; padding-top:12px">
+            <input placeholder="Nhập đường dẫn hình" class="form-control me-2" type="text" name="Hinh" />
+        </div>
+        <div style="background:#FA748F; padding-top:12px">
+            <input class="btn bg-white" type="submit" style="color:#FA748F; font-weight:bold" value="Thêm" />
+        </div>
+    }
+</div>

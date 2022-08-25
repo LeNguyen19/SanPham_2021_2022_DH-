@@ -1,0 +1,24 @@
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\DAL\bin\Debug\DAL.dll
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\DAL\bin\Debug\DAL.pdb
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\DAL\bin\Debug\DTO.dll
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\DAL\bin\Debug\FireSharp.dll
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\DAL\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\DAL\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\DAL\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\DAL\bin\Debug\DTO.pdb
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\DAL\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\DAL\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\DAL\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\DAL\obj\Debug\DAL.dll
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\DAL\obj\Debug\DAL.pdb
+F:\QLDatVeXe\DAL\bin\Debug\DAL.dll
+F:\QLDatVeXe\DAL\bin\Debug\DAL.pdb
+F:\QLDatVeXe\DAL\bin\Debug\DTO.dll
+F:\QLDatVeXe\DAL\bin\Debug\Newtonsoft.Json.dll
+F:\QLDatVeXe\DAL\bin\Debug\DTO.pdb
+F:\QLDatVeXe\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\QLDatVeXe\DAL\obj\Debug\DAL.dll
+F:\QLDatVeXe\DAL\obj\Debug\DAL.pdb

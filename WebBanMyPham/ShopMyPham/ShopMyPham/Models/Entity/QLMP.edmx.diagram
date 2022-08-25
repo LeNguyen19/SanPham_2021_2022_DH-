@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="0aecd36fc7bd4fc186d63faa64ba3d67" Name="Diagram1">
+        <EntityTypeShape EntityType="QL_MyPhamModel.ChiTietDonHang" Width="1.5" PointX="8.25" PointY="2.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_MyPhamModel.ChiTietNhapHang" Width="1.5" PointX="8.25" PointY="5.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_MyPhamModel.DonHang" Width="1.5" PointX="6" PointY="9.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_MyPhamModel.LoaiSanPham" Width="1.5" PointX="3.75" PointY="2.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_MyPhamModel.NhaCungCap" Width="1.5" PointX="0.75" PointY="5.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_MyPhamModel.NhapHang" Width="1.5" PointX="3" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_MyPhamModel.SanPham" Width="1.5" PointX="6" PointY="4.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_MyPhamModel.ThongTin" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <AssociationConnector Association="QL_MyPhamModel.FK_ChiTietDonHang_DonHang" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_MyPhamModel.FK_ChiTietDonHang_SanPham" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_MyPhamModel.FK_ChiTietNhapHang_NhapHang" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_MyPhamModel.FK_ChiTietNhapHang_SanPham" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_MyPhamModel.FK_DonHang_KhachHang" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_MyPhamModel.FK_SanPham_LoaiSanPham" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_MyPhamModel.FK_NhapHang_NhaCungCap" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_MyPhamModel.FK_SanPham_NhaCungCap" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_MyPhamModel.FK_NhapHang_NhanVien" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

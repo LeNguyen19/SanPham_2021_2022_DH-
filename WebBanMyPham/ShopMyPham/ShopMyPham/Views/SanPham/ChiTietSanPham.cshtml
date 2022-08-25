@@ -1,0 +1,75 @@
+﻿@model ShopMyPham.Models.Entity.SanPham
+@{
+    ViewBag.Title = "ChiTietSanPham";
+    Layout = "~/Views/Shared/_LayoutHome.cshtml";
+}
+<div class="row" style="margin-top:63px">
+    <div class="col-sm-1"></div>
+    <div class="col-sm-10" style="padding:0;background:#ffffff">
+        <div class="row">
+            <div class="col-sm-3">
+                @Html.Action("DanhMucSP", "DanhMucSanPham")
+            </div>
+            <div class="col-sm-9" style="height:555px">
+                <img src="~/Assets/img/CTSP.png" style="width:35%; height:18%; margin-left:33%" />
+                <div class="container" style=" padding-top:5px">
+                    <div class="row">
+                        <div class="col-md-5" style="background:#FFE7EC; padding-top:30px">
+                            <img src="~/Assets/img/@Html.DisplayFor(model => model.AnhBia)" class="card-img-top" width="100%" height="90%" />
+                        </div>
+                        <div class="col-md-7" style=" padding:0">
+                            <div style="background:#FFE7EC; margin-right:20px;padding-top:30px; height:300px">
+                                <table style="text-align:left; ">
+                                    <tr>
+                                        <td style="width:25%; font-weight:bold">Tên sản phẩm:</td>
+                                        <td style="width:380px">@Html.DisplayFor(model => model.TenSP)</td>
+                                    </tr>
+                                    <tr>
+                                        <td style="width:20%; font-weight:bold">Tên hãng:</td>
+                                        <td style="width:380px">@Model.NhaCungCap.TenNCC</td>
+                                    </tr>
+                                    <tr>
+                                        <td style="width:20%; font-weight:bold">Mô tả:</td>
+                                        <td style="width:380px">@Html.DisplayFor(model => model.MoTa)</td>
+                                    </tr>
+                                    <tr>
+                                        <td style="width:20%; font-weight:bold">Giá bán:</td>
+                                        <td style="color: red; width:200px">@Html.DisplayFor(model => model.GiaBan) VND</td>
+                                    </tr>
+                                </table>
+                            </div>
+                            <div style="background:#FFE7EC; height:100px; margin-right:20px">
+                                <a href="@Url.Action("ViewDangKy", "KhachHang")" style="margin-left:28%"><input type="submit" value="MUA NGAY" class="btn" style="background:#ff6a00; color:white; font-weight:bold" /></a>
+                                <a href="@Url.Action("ViewSanPham","Home")" style="margin-left:5%"><input type="submit" value="MUA TIẾP" class="btn" style="background:#ff6a00; color:white; font-weight:bold" /></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-sm-1"></div>
+</div>
+<div class="row">
+    <div class="auto-style1" style="background:#FA748F; color:#ffffff">
+        <a style="font-weight:bold">HỖ TRỢ KHÁCH HÀNG</a><br />
+        <a>Thắc mắc - Hỏi đáp</a><br />
+        <a>Hướng dẫn mua hàng</a><br />
+        <a>Đặt hàng & Thanh toán</a><br />
+    </div>
+    <div class="auto-style1" style="background:#FA748F; color:#ffffff">
+        <a style="font-weight:bold">THÔNG TIN LIÊN HỆ</a><br />
+        <a>140 Lê Trọng Tấn, Tây Thạnh, Tân Phú </a><br />
+        <a>Hotline: 012345678 - 098765432</a><br />
+        <a>Tư vấn bán hàng từ(8h - 20h thứ 2 - chủ nhật)</a><br />
+    </div>
+    <div class="auto-style1" style="background:#FA748F; color:#ffffff">
+        <a style="font-weight:bold">KẾT NỐI VỚI CHÚNG TÔI</a><br />
+        <a></a><br />
+        <a href="https://www.facebook.com/"><img src="~/Assets/img/fb.jpg" style="width:40px; height:40px;" href="#" /></a>
+        <a href="https://www.instagram.com/"><img src="~/Assets/img/IG.jpg" style="width:40px; height:40px;" href="#" /></a>
+        <a href="https://www.twitter.com/"><img src="~/Assets/img/wb.jpg" style="width:40px; height:40px;" href="#" /></a>
+        <br />
+        <a></a><br />
+    </div>
+</div>

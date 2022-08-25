@@ -1,0 +1,133 @@
+﻿@model List<ShopTrueLife.Models.POJO.GioHang>
+@{
+    ViewBag.Title = "GioHang";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+<style>
+    #font_a {
+        text-decoration: none;
+        color: black;
+    }
+
+        #font_a:hover {
+            color: black;
+        }
+    .auto-style1 {
+        flex: 0 0 auto;
+        width: 33.33333333%;
+        text-align: center;
+        font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    }
+
+    #button {
+        background: #FA748F;
+        color: #ffffff;
+        border-radius: 0;
+    }
+
+        #button:hover {
+            background: #000000;
+        }
+</style>
+<script type="text/javascript">
+    function Submit() {
+        confirm("ĐẶT HÀNG THÀNH CÔNG!")
+    }
+</script>
+<div class="row">
+    <div class="col-md-3" style="background:#D9D9D9; height:270px; font-family:Cambria, Cochin, Georgia, Times, Times New Roman, serif; padding-top: 90px; padding-left:10%">
+        <a style="color:#000000; font-size:35px;">Giỏ hàng</a>
+        <br />
+        <a style="color:#000000; font-size:medium">Trang Chủ</a> / <a style="color:#FA748F;font-size:medium">Giỏ hàng</a>
+    </div>
+    <div class="col-md-9" style="padding:0">
+        <img src="~/Assets/img/gioiThieu.PNG" style="height:270px; width:100%" href="#" />
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm-1"></div>
+    <div class="col-sm-10" style="padding:0;background:#ffffff">
+        <div class="row">
+            <div class="col-sm-3">
+                @Html.Action("DanhMucSanPhamUser", "DanhMucSanPham")
+            </div>
+            <div class="col-sm-9">
+                <br />
+                <h3 style="color:#FA748F; font-weight:bold; margin-left:35%">GIỎ HÀNG CỦA BẠN</h3>
+                <div>
+                    <table class="table table-bordered table-striped">
+                        <tr style="background-color:#FA748F">
+                            <th style="color:#ffffff">Mã</th>
+                            <th style="color:#ffffff">Tên Sản Phẩm</th>
+                            <th style="color:#ffffff">Ảnh</th>
+                            <th style="color:#ffffff">Số Lượng</th>
+                            <th style="color:#ffffff">Đơn Giá</th>
+                            <th style="color:#ffffff">Thành Tiền</th>
+                            @*<th>@Html.ActionLink("Xoá Tất cả", "xoaGioHang_All", "GioHang", new { style = "text-decoration:none; font-weight:bold; color:#ffffff" })</th>*@
+                            <th></th>
+                            <th></th>
+                            <th></th>
+                        </tr>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@item.iMaSP</td>
+                                <td width="30%">@item.sTenSP</td>
+                                <td width="22%"><img src="~/Assets/img/@item.sAnhBia" width="100%" height="100%" /></td>
+                                @using (Html.BeginForm("capNhatGioHang", "GioHang", new { @MaSP = item.iMaSP }))
+                                {
+                                    <td><input style="width:80px" type="number" min="1" name="txtSoLuong" value="@item.iSoLuong"></td>
+                                    <td width="15%">@String.Format("{0:0,0}", item.dDonGia)</td>
+                                    <td width="18%">@String.Format("{0:0,0}", item.dThanhTien)</td>
+                                    <td><a style="text-decoration:none; color:#FA748F" href="@Url.Action("ChiTietSanPhamUser", "SanPham", new { @maSP = item.iMaSP, @gia = @item.dDonGia })">Chi tiết sản phẩm</a></td>
+                                    <td><a style="text-decoration:none; color:#FA748F" href="@Url.Action("xoaGioHang", "GioHang", new { @MaSP = item.iMaSP })">Xoá</a></td>
+                                    <td><input style="text-decoration:none; color:#FA748F" type="submit" value="Cập nhật" /></td>
+                                }
+
+                            </tr>
+                        }
+                        <tr style="background-color:#FA748F">
+                            <td colspan="5" style="color:#ffffff; font-weight:bold;text-align:right;">Tổng số lượng:</td>
+                            <td style="color:#ffffff;font-weight:bold;">@ViewBag.TongSoLuong</td>
+                            <td style="color:#ffffff; font-weight:bold;text-align:right;">Tổng tiền:</td>
+                            <td colspan="2" style="color:#ffffff;font-weight:bold;">@String.Format("{0:0,0}", ViewBag.TongThanhTien) VNĐ</td>
+                        </tr>
+                        <tr>
+                            <td colspan="7"></td>
+                            <td onclick="return Submit()" colspan="2">@Html.ActionLink("ĐẶT HÀNG", "DatHang", "GioHang", new { style = "background-color:#FA748F; display:block; height:28px; width:118px; padding-left:15px; color:#ffffff; text-decoration:none; font-weight:bold" })</td>
+                        </tr>
+                    </table>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-sm-1"></div>
+</div>
+
+<div class="row">
+    <div class="auto-style1" style="background:#FA748F; color:#ffffff">
+        <br />
+        <a style="font-weight:bold">HỖ TRỢ KHÁCH HÀNG</a><br />
+        <a>Thắc mắc - Hỏi đáp</a><br />
+        <a>Hướng dẫn mua hàng</a><br />
+        <a>Đặt hàng & Thanh toán</a><br />
+    </div>
+    <div class="auto-style1" style="background:#FA748F; color:#ffffff">
+        <br />
+        <a style="font-weight:bold">THÔNG TIN LIÊN HỆ</a><br />
+        <a>140 Lê Trọng Tấn, Tây Thạnh, Tân Phú </a><br />
+        <a>Hotline: 012345678 - 098765432</a><br />
+        <a>Tư vấn bán hàng từ(8h - 20h thứ 2 - chủ nhật)</a><br />
+    </div>
+    <div class="auto-style1" style="background:#FA748F; color:#ffffff">
+        <br />
+        <a style="font-weight:bold">KẾT NỐI VỚI CHÚNG TÔI</a><br />
+        <a></a><br />
+        <a href="https://www.facebook.com/"><img src="~/Assets/img/fb.jpg" style="width:40px; height:40px;" href="#" /></a>
+        <a href="https://www.instagram.com/"><img src="~/Assets/img/IG.jpg" style="width:40px; height:40px;" href="#" /></a>
+        <a href="https://www.twitter.com/"><img src="~/Assets/img/wb.jpg" style="width:40px; height:40px;" href="#" /></a>
+        <br />
+        <a></a><br />
+    </div>
+</div>

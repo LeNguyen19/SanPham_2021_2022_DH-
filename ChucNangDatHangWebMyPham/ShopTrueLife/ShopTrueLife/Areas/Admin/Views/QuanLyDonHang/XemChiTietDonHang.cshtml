@@ -1,0 +1,39 @@
+﻿@model IEnumerable<ShopTrueLife.Areas.Admin.Models.pojoXemChiTietDonHang>
+@{
+    ViewBag.Title = "XemChiTietDonHang";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+
+<div class="container">
+    <br />
+    <h3 style="text-align:center; color:#FA748F; font-weight:bold">XEM CHI TIẾT ĐƠN HÀNG</h3>
+    <br />
+    <table class="table table-bordered table-striped">
+        <tr style="background-color:#FA748F">
+            <th style="color:#ffffff">Mã Hoá Đơn</th>
+            <th style="color:#ffffff">Mã Khách Hàng</th>
+            <th style="color:#ffffff">Mã Sản Phẩm</th>
+            <th style="color:#ffffff">Tên Sản Phẩm</th>
+            <th style="color:#ffffff">Ảnh </th>
+            <th style="color:#ffffff">Đơn Giá</th>
+            <th style="color:#ffffff">Số Lượng</th>
+            <th style="color:#ffffff">Thành Tiền</th>
+            <th style="color:#ffffff">Ngày Mua Hàng</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.iMaDH</td>
+                <td>@item.iMaKH</td>
+                <td>@item.iMaSP</td>
+                <td>@item.sTenSP</td>
+                <td><img style="width:90%; height:150px; margin-left:13px; margin-top:20px" src="~/Assets/img/@item.sAnhBia" /></td>
+                <td>@item.dDonGia</td>
+                <td>@item.iSoLuong</td>
+                <td>@item.dThanhTien</td>
+                <td>@item.dNgayDat</td>
+            </tr>
+        }
+</table>
+</div>

@@ -1,0 +1,31 @@
+C:\Users\Bridget\OneDrive\Máy tính\demoDatVeXe\QLDatVeXe\CONTROLS\bin\Debug\CONTROLS.dll
+C:\Users\Bridget\OneDrive\Máy tính\demoDatVeXe\QLDatVeXe\CONTROLS\bin\Debug\CONTROLS.pdb
+C:\Users\Bridget\OneDrive\Máy tính\demoDatVeXe\QLDatVeXe\CONTROLS\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Bridget\OneDrive\Máy tính\demoDatVeXe\QLDatVeXe\CONTROLS\obj\Debug\CONTROLS.dll
+C:\Users\Bridget\OneDrive\Máy tính\demoDatVeXe\QLDatVeXe\CONTROLS\obj\Debug\CONTROLS.pdb
+C:\Users\Bridget\OneDrive\Máy tính\demoDatVeXe\QLDatVeXe\CONTROLS\obj\Debug\CONTROLS.Properties.Resources.resources
+C:\Users\Bridget\OneDrive\Máy tính\demoDatVeXe\QLDatVeXe\CONTROLS\obj\Debug\CONTROLS.csproj.GenerateResource.Cache
+C:\Users\Bridget\OneDrive\Máy tính\demoDatVeXe\QLDatVeXe\CONTROLS\obj\Debug\CONTROLS.XeGiuongNam.resources
+C:\Users\Bridget\OneDrive\Máy tính\demoDatVeXe\QLDatVeXe\CONTROLS\obj\Debug\CONTROLS.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\demoDatVeXe\QLDatVeXe\CONTROLS\bin\Debug\CONTROLS.dll
+C:\Users\hp\Desktop\demoDatVeXe\QLDatVeXe\CONTROLS\bin\Debug\CONTROLS.pdb
+C:\Users\hp\Desktop\demoDatVeXe\QLDatVeXe\CONTROLS\obj\Debug\CONTROLS.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\demoDatVeXe\QLDatVeXe\CONTROLS\obj\Debug\CONTROLS.Properties.Resources.resources
+C:\Users\hp\Desktop\demoDatVeXe\QLDatVeXe\CONTROLS\obj\Debug\CONTROLS.XeGiuongNam.resources
+C:\Users\hp\Desktop\demoDatVeXe\QLDatVeXe\CONTROLS\obj\Debug\CONTROLS.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\demoDatVeXe\QLDatVeXe\CONTROLS\obj\Debug\CONTROLS.dll
+C:\Users\hp\Desktop\demoDatVeXe\QLDatVeXe\CONTROLS\obj\Debug\CONTROLS.pdb
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\CONTROLS\bin\Debug\CONTROLS.dll
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\CONTROLS\bin\Debug\CONTROLS.pdb
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\CONTROLS\obj\Debug\CONTROLS.Properties.Resources.resources
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\CONTROLS\obj\Debug\CONTROLS.XeGiuongNam.resources
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\CONTROLS\obj\Debug\CONTROLS.csproj.GenerateResource.Cache
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\CONTROLS\obj\Debug\CONTROLS.dll
+C:\Users\Bridget\OneDrive\Máy tính\QuanLyDatVeXeKhach\demoDatVeXe\QLDatVeXe\CONTROLS\obj\Debug\CONTROLS.pdb
+F:\QLDatVeXe\CONTROLS\bin\Debug\CONTROLS.dll
+F:\QLDatVeXe\CONTROLS\bin\Debug\CONTROLS.pdb
+F:\QLDatVeXe\CONTROLS\obj\Debug\CONTROLS.Properties.Resources.resources
+F:\QLDatVeXe\CONTROLS\obj\Debug\CONTROLS.XeGiuongNam.resources
+F:\QLDatVeXe\CONTROLS\obj\Debug\CONTROLS.csproj.GenerateResource.Cache
+F:\QLDatVeXe\CONTROLS\obj\Debug\CONTROLS.dll
+F:\QLDatVeXe\CONTROLS\obj\Debug\CONTROLS.pdb

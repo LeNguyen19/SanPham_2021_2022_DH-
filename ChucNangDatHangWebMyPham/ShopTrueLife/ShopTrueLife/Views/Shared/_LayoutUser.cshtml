@@ -1,0 +1,130 @@
+﻿@using ShopTrueLife.Models.KetNoiLinq
+@{
+    var user = new KhachHang();
+    if (Session["User"] != null)
+    {
+        user = Session["User"] as KhachHang;
+    }
+}
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <style>
+        .navMenu {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+            padding-top: 12px;
+        }
+
+            .navMenu li {
+                display: inline;
+                margin-left: 22px;
+            }
+
+            .navMenu a {
+                text-decoration: none;
+                color: #000000;
+                font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+                font-size: large;
+                font-weight: bold;
+            }
+
+                .navMenu a:hover {
+                    color: #FA748F;
+                    font-weight: bold;
+                }
+
+        #button {
+            background: #FA748F;
+            color: #ffffff;
+            border-radius: 0;
+            font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+        }
+
+            #button:hover {
+                background: #000000;
+            }
+
+        #font {
+            color: white;
+            font-family: 'Times New Roman', Times, serif;
+            font-size: 16px;
+            text-decoration: none;
+        }
+
+            #font:hover {
+                color: black;
+            }
+    #font_a {
+        text-decoration: none;
+        color: black;
+        font-family:Cambria, Cochin, Georgia, Times, Times New Roman, serif; 
+        font-size:16px; 
+        /*padding-top:37px;padding-left:8%*/
+    }
+
+        #font_a:hover {
+            color: #FA748F;
+        }
+    </style>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js"></script>
+</head>
+<body>
+    <div class="row" style="height:30px;background:#FA748F; color:white; font-family:'Times New Roman', Times, serif; font-size:16px">
+        <div class="col-md-7" style="padding-left:9%; padding-top: 2px">Chào mừng @user.HoTen_KH đến với True Life</div>
+        <div class="col-md-2" style="padding-left:6%; padding-top: 2px">HotLine: 0123456789 </div>
+        <div class="col-md-3" style="padding-left:7%; padding-top: 2px">
+            <a>True Life xin chào </a>
+            <img src="~/Assets/img/user.PNG" style="height:25px; width:25px" href="#" data-bs-toggle="dropdown" />
+            <ul class="dropdown-menu" style="border-color:#FA748F">
+                <li><a class="dropdown-item" href="@Url.Action("HoSo", "KhachHang", new { @id_KhachHang = @user.ID_KhachHang })">Xem Hồ Sơ</a></li>
+                <li><a class="dropdown-item" href="~/Home/ViewTrangChu">Đăng Xuất</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="row" style="height:96px">
+        <div class="col-md-4">
+            <a href="~/User/UserTrangChu"><img src="~/Assets/img/logo.PNG" style="height:90px; width:280px; margin-left:25%; margin-top:3px" href="#" /></a>
+        </div>
+        <div class="col-md-4" style="padding:0 ;padding-top:29px">
+            <input placeholder="Nhập sản phẩm bạn cần tìm" class="form-control" type="text" name="ten" style="border-color:#FA748F;font-family:Cambria, Cochin, Georgia, Times, Times New Roman, serif; border-radius:0" />
+        </div>
+        <div class="col-md-1" style="padding:0 ;padding-top:29px">
+            <button type="button" class="btn" id="button">Tìm</button>
+        </div>
+        <div class="col-md-3" style="font-family:Cambria, Cochin, Georgia, Times, Times New Roman, serif; font-size:16px; padding-top:37px;padding-left:8%">
+            <img src="~/Assets/img/gioHang.PNG" style="height:30px; width:40px" />
+            @*<a style="color:#000000; text-decoration:none" href="~/GioHang/GioHang>Giỏ hàng</a>*@
+            <a id="font_a" href="~/GioHang/GioHang">Giỏ Hàng</a>
+        </div>
+    </div>
+    <div style="background:#FA748F; height:3px"></div>
+    <div style="height:50px">
+        <div class="container" style="padding-left: 18%">
+            <ul class="navMenu">
+                <li><a href="~/User/UserTrangChu">TRANG CHỦ</a></li>
+                <a style="padding-left:2%"></a>
+                <li><a href="~/User/UserGioiThieu">GIỚI THIỆU</a></li>
+                <a style="padding-left:2%"></a>
+                <li><a href="~/User/UserSanPham">SẢN PHẨM</a></li>
+                <a style="padding-left:2%"></a>
+                <li><a href="~/User/UserUuDai">ƯU ĐÃI</a></li>
+                <a style="padding-left:2%"></a>
+                <li><a href="~/User/UserTinTuc">TIN TỨC</a></li>
+                <a style="padding-left:2%"></a>
+                <li><a href="~/User/UserLienHe">LIÊN HỆ</a></li>
+            </ul>
+        </div>
+    </div>
+    <div>
+        @RenderBody()
+    </div>
+</body>
+</html>

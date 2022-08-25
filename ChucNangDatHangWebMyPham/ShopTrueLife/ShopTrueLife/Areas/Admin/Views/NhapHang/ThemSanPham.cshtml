@@ -1,0 +1,35 @@
+﻿@{
+    ViewBag.Title = "ThemSanPham";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+<div></div>
+<div></div>
+<div class="container">
+    <br />
+    <h3 style="margin-left:37%; color:#FA748F; font-weight:bold">THÊM SẢN PHẨM</h3>
+    <br />
+    @using (Html.BeginForm("ThemSanPham", "NhapHang", FormMethod.Get))
+    {
+        <div style="background:#FA748F; padding-top:12px">
+            <input placeholder="Nhập tên sản phẩm" class="form-control me-2" type="text" name="TenSanPham" />
+        </div>
+        <div style="background:#FA748F; padding-top:12px">
+            <input placeholder="Nhập số lượng nhập" class="form-control me-2" type="text" name="SoLuong" />
+        </div>
+        <div style="background:#FA748F; padding-top:12px">
+            <input placeholder="Nhập giá nhập" class="form-control me-2" type="text" name="GiaNhap" />
+        </div>
+        <div style="background:#FA748F; padding-top:12px">
+            <input placeholder="Nhập mã loại sản phẩm" class="form-control me-2" type="text" name="MaLoaiSP" />
+        </div>
+        <div style="background:#FA748F; padding-top:12px">
+            <input placeholder="Nhập mã nhà cung cấp" class="form-control me-2" type="text" name="MaNCC" />
+        </div>
+        <div style="background:#FA748F; padding-top:12px">
+            <input placeholder="Nhập mô tả sản phẩm" class="form-control me-2" type="text" name="MoTaSanPham" />
+        </div>
+        <div style="background:#FA748F; padding-top:12px">
+            <input class="btn bg-white" type="submit" style="color:#FA748F; font-weight:bold" value="Thêm" />
+        </div>
+    }
+</div>

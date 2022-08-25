@@ -1,0 +1,124 @@
+﻿@model ShopMyPham.Models.Entity.SanPham
+
+@{
+    ViewBag.Title = "ThemSP";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+<style type="text/css">
+    img.card-img-top {
+        margin-top: 20px;
+        margin-left: 23%;
+    }
+
+    p {
+        margin: 7px;
+    }
+
+    input[type="text" i] {
+        border-radius: 5px 5px 5px 5px;
+        /*padding: 1px 2px;*/
+        border-color: #FA748F;
+        width: 346px;
+        height: 38px;
+        margin: 0;
+        font-family: inherit;
+        font-size: inherit;
+        line-height: inherit;
+    }
+
+    .card {
+        background-clip: inherit /*border-box*/;
+        border: 1px solid #FA748F;
+    }
+
+    #left {
+        float: left;
+        width: 50%;
+    }
+
+    #right {
+        float: left;
+        width: 50%;
+    }
+</style>
+<div class="container">
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        @Html.ValidationSummary(true)
+
+        <fieldset>
+            <legend style="font-weight:bold; color:#FA748F">Thêm Sản Phẩm</legend>
+            <hr style="color:#FA748F" />
+
+            <div style="margin-left:10%">
+                <div id="left">
+                    <div class="editor-label">
+                        @Html.LabelFor(model => model.TenSP)
+                    </div>
+                    <div class="editor-field">
+                        @Html.EditorFor(model => model.TenSP)
+                        @Html.ValidationMessageFor(model => model.TenSP)
+                    </div>
+
+                    <div class="editor-label">
+                        @Html.LabelFor(model => model.GiaBan)
+                    </div>
+                    <div class="editor-field">
+                        @Html.EditorFor(model => model.GiaBan)
+                        @Html.ValidationMessageFor(model => model.GiaBan)
+                    </div>
+
+                    <div class="editor-label">
+                        @Html.LabelFor(model => model.MoTa)
+                    </div>
+                    <div class="editor-field">
+                        @Html.EditorFor(model => model.MoTa)
+                        @Html.ValidationMessageFor(model => model.MoTa)
+                    </div>
+
+                    <div class="editor-label">
+                        @Html.LabelFor(model => model.AnhBia)
+                    </div>
+                    <div class="editor-field">
+                        @Html.EditorFor(model => model.AnhBia)
+                        @Html.ValidationMessageFor(model => model.AnhBia)
+                    </div>
+
+                    <div class="editor-label">
+                        @Html.LabelFor(model => model.SoLuongTon)
+                    </div>
+                    <div class="editor-field">
+                        @Html.EditorFor(model => model.SoLuongTon)
+                        @Html.ValidationMessageFor(model => model.SoLuongTon)
+                    </div>
+
+                    <div class="editor-label">
+                        @Html.LabelFor(model => model.MaNCC)
+                    </div>
+                    <div class="editor-field">
+                        @Html.EditorFor(model => model.MaNCC)
+                        @Html.ValidationMessageFor(model => model.MaNCC)
+                    </div>
+
+                    <div class="editor-label">
+                        @Html.LabelFor(model => model.MaLoaiSP)
+                    </div>
+                    <div class="editor-field">
+                        @Html.EditorFor(model => model.MaLoaiSP)
+                        @Html.ValidationMessageFor(model => model.MaLoaiSP)
+                    </div>
+
+                    <p>
+                        <input style="border-radius:5px; background:#FA748F; border-color:#FA748F; color:white; width:25%; font-weight:bold;height: 38px" type="submit" value="Lưu Thông Tin" />
+
+                    </p>
+                </div>
+            </div>
+        </fieldset>
+    }
+</div>
+
+<div>
+    @Html.ActionLink("Back to List", "SanPhamAdmin","SanPhamAdmin")
+</div>

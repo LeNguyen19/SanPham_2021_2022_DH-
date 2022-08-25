@@ -1,0 +1,121 @@
+﻿@model ShopMyPham.Models.Entity.ThongTin
+@{
+    ViewBag.Title = "SuaNV";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+<style type="text/css">
+    img.card-img-top {
+        margin-top: 20px;
+        margin-left: 23%;
+    }
+
+    p {
+        margin: 7px;
+    }
+
+    input[type="text" i] {
+        border-radius: 5px 5px 5px 5px;
+        /*padding: 1px 2px;*/
+        border-color: #FA748F;
+        width: 346px;
+        height: 38px;
+        margin: 0;
+        font-family: inherit;
+        font-size: inherit;
+        line-height: inherit;
+    }
+
+    .card {
+        background-clip: inherit /*border-box*/;
+        border: 1px solid #FA748F;
+    }
+
+    #left {
+        float: left;
+        width: 50%;
+    }
+
+    #right {
+        float: left;
+        width: 50%;
+    }
+</style>
+<div class="container">
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        @Html.ValidationSummary(true)
+
+        <fieldset>
+            <legend style="font-weight:bold; color:#FA748F">Sửa Thông Tin Nhân Viên</legend>
+            <hr style="color:#FA748F" />
+
+            <div style="margin-left:10%">
+                <div id="left">
+                    <div class="editor-label">
+                        Họ và Tên Khách Hàng
+                    </div>
+                    <div class="editor-field">
+                        @Html.EditorFor(model => model.HoTen)
+                        @Html.ValidationMessageFor(model => model.HoTen)
+                    </div>
+
+                    <div class="editor-label">
+                        Giới Tính
+                    </div>
+                    <div class="editor-field">
+                        @Html.EditorFor(model => model.GioTinh)
+                        @Html.ValidationMessageFor(model => model.GioTinh)
+                    </div>
+
+                    <div class="editor-label">
+                        Địa Chỉ
+                    </div>
+                    <div class="editor-field">
+                        @Html.EditorFor(model => model.DiaChi)
+                        @Html.ValidationMessageFor(model => model.DiaChi)
+                    </div>
+
+                    <div class="editor-label">
+                        Điện Thoại
+                    </div>
+                    <div class="editor-field">
+                        @Html.EditorFor(model => model.DienThoai)
+                        @Html.ValidationMessageFor(model => model.DienThoai)
+                    </div>
+
+                    <div class="editor-label">
+                        Email
+                    </div>
+                    <div class="editor-field">
+                        @Html.EditorFor(model => model.Email)
+                        @Html.ValidationMessageFor(model => model.Email)
+                    </div>
+
+                    <div class="editor-label">
+                        Tài Khoản
+                    </div>
+                    <div class="editor-field">
+                        @Html.EditorFor(model => model.TaiKhoan)
+                        @Html.ValidationMessageFor(model => model.TaiKhoan)
+                    </div>
+
+                    <div class="editor-label">
+                        Mật Khẩu
+                    </div>
+                    <div class="editor-field">
+                        @Html.EditorFor(model => model.MatKhau)
+                        @Html.ValidationMessageFor(model => model.MatKhau)
+                    </div>
+                    <br />
+                    <p>
+                        <input style="border-radius:5px; background:#FA748F; border-color:#FA748F; color:white; width:25%; font-weight:bold;height: 38px" type="submit" value="Lưu Thông Tin" />
+                        <input href="~/Admin/NhanVien/ShowNhanVien" style="border-radius:5px; background:#FA748F; border-color:#FA748F; color:white; margin-left:3%; width:25%; font-weight:bold;height: 38px" type="submit" value="Huỷ Lưu" />
+                    </p>
+                </div>
+            </div>
+        </fieldset>
+    }
+</div>
+

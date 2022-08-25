@@ -1,0 +1,168 @@
+C:\Users\Bridget\Desktop\BaiWeb_HoanChinhThietNe\ShopMyPham\ShopMyPham\bin\ShopMyPham.dll.config
+C:\Users\Bridget\Desktop\BaiWeb_HoanChinhThietNe\ShopMyPham\ShopMyPham\bin\ShopMyPham.dll
+C:\Users\Bridget\Desktop\BaiWeb_HoanChinhThietNe\ShopMyPham\ShopMyPham\bin\ShopMyPham.pdb
+C:\Users\Bridget\Desktop\BaiWeb_HoanChinhThietNe\ShopMyPham\ShopMyPham\bin\EntityFramework.dll
+C:\Users\Bridget\Desktop\BaiWeb_HoanChinhThietNe\ShopMyPham\ShopMyPham\bin\EntityFramework.SqlServer.dll
+C:\Users\Bridget\Desktop\BaiWeb_HoanChinhThietNe\ShopMyPham\ShopMyPham\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bridget\Desktop\BaiWeb_HoanChinhThietNe\ShopMyPham\ShopMyPham\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Bridget\Desktop\BaiWeb_HoanChinhThietNe\ShopMyPham\ShopMyPham\bin\Newtonsoft.Json.dll
+C:\Users\Bridget\Desktop\BaiWeb_HoanChinhThietNe\ShopMyPham\ShopMyPham\bin\System.Net.Http.Formatting.dll
+C:\Users\Bridget\Desktop\BaiWeb_HoanChinhThietNe\ShopMyPham\ShopMyPham\bin\System.Web.Helpers.dll
+C:\Users\Bridget\Desktop\BaiWeb_HoanChinhThietNe\ShopMyPham\ShopMyPham\bin\System.Web.Http.dll
+C:\Users\Bridget\Desktop\BaiWeb_HoanChinhThietNe\ShopMyPham\ShopMyPham\bin\System.Web.Http.WebHost.dll
+C:\Users\Bridget\Desktop\BaiWeb_HoanChinhThietNe\ShopMyPham\ShopMyPham\bin\System.Web.Mvc.dll
+C:\Users\Bridget\Desktop\BaiWeb_HoanChinhThietNe\ShopMyPham\ShopMyPham\bin\System.Web.Razor.dll
+C:\Users\Bridget\Desktop\BaiWeb_HoanChinhThietNe\ShopMyPham\ShopMyPham\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Bridget\Desktop\BaiWeb_HoanChinhThietNe\ShopMyPham\ShopMyPham\bin\System.Web.WebPages.dll
+C:\Users\Bridget\Desktop\BaiWeb_HoanChinhThietNe\ShopMyPham\ShopMyPham\bin\System.Web.WebPages.Razor.dll
+C:\Users\Bridget\Desktop\BaiWeb_HoanChinhThietNe\ShopMyPham\ShopMyPham\bin\EntityFramework.xml
+C:\Users\Bridget\Desktop\BaiWeb_HoanChinhThietNe\ShopMyPham\ShopMyPham\bin\EntityFramework.SqlServer.xml
+C:\Users\Bridget\Desktop\BaiWeb_HoanChinhThietNe\ShopMyPham\ShopMyPham\bin\Newtonsoft.Json.xml
+C:\Users\Bridget\Desktop\BaiWeb_HoanChinhThietNe\ShopMyPham\ShopMyPham\bin\System.Net.Http.Formatting.xml
+C:\Users\Bridget\Desktop\BaiWeb_HoanChinhThietNe\ShopMyPham\ShopMyPham\bin\System.Web.Helpers.xml
+C:\Users\Bridget\Desktop\BaiWeb_HoanChinhThietNe\ShopMyPham\ShopMyPham\bin\System.Web.Http.xml
+C:\Users\Bridget\Desktop\BaiWeb_HoanChinhThietNe\ShopMyPham\ShopMyPham\bin\System.Web.Http.WebHost.xml
+C:\Users\Bridget\Desktop\BaiWeb_HoanChinhThietNe\ShopMyPham\ShopMyPham\bin\System.Web.Mvc.xml
+C:\Users\Bridget\Desktop\BaiWeb_HoanChinhThietNe\ShopMyPham\ShopMyPham\bin\System.Web.Razor.xml
+C:\Users\Bridget\Desktop\BaiWeb_HoanChinhThietNe\ShopMyPham\ShopMyPham\bin\System.Web.WebPages.xml
+C:\Users\Bridget\Desktop\BaiWeb_HoanChinhThietNe\ShopMyPham\ShopMyPham\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Bridget\Desktop\BaiWeb_HoanChinhThietNe\ShopMyPham\ShopMyPham\bin\System.Web.WebPages.Razor.xml
+C:\Users\Bridget\Desktop\BaiWeb_HoanChinhThietNe\ShopMyPham\ShopMyPham\obj\Debug\ShopMyPham.csprojResolveAssemblyReference.cache
+C:\Users\Bridget\Desktop\BaiWeb_HoanChinhThietNe\ShopMyPham\ShopMyPham\obj\Debug\ShopMyPham.dll
+C:\Users\Bridget\Desktop\BaiWeb_HoanChinhThietNe\ShopMyPham\ShopMyPham\obj\Debug\ShopMyPham.pdb
+C:\Users\hp\Documents\Zalo Received Files\ShopMyPham\ShopMyPham\bin\ShopMyPham.dll.config
+C:\Users\hp\Documents\Zalo Received Files\ShopMyPham\ShopMyPham\bin\ShopMyPham.dll
+C:\Users\hp\Documents\Zalo Received Files\ShopMyPham\ShopMyPham\bin\ShopMyPham.pdb
+C:\Users\hp\Documents\Zalo Received Files\ShopMyPham\ShopMyPham\bin\EntityFramework.dll
+C:\Users\hp\Documents\Zalo Received Files\ShopMyPham\ShopMyPham\bin\EntityFramework.SqlServer.dll
+C:\Users\hp\Documents\Zalo Received Files\ShopMyPham\ShopMyPham\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hp\Documents\Zalo Received Files\ShopMyPham\ShopMyPham\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\hp\Documents\Zalo Received Files\ShopMyPham\ShopMyPham\bin\Newtonsoft.Json.dll
+C:\Users\hp\Documents\Zalo Received Files\ShopMyPham\ShopMyPham\bin\System.Net.Http.Formatting.dll
+C:\Users\hp\Documents\Zalo Received Files\ShopMyPham\ShopMyPham\bin\System.Web.Helpers.dll
+C:\Users\hp\Documents\Zalo Received Files\ShopMyPham\ShopMyPham\bin\System.Web.Http.dll
+C:\Users\hp\Documents\Zalo Received Files\ShopMyPham\ShopMyPham\bin\System.Web.Http.WebHost.dll
+C:\Users\hp\Documents\Zalo Received Files\ShopMyPham\ShopMyPham\bin\System.Web.Mvc.dll
+C:\Users\hp\Documents\Zalo Received Files\ShopMyPham\ShopMyPham\bin\System.Web.Razor.dll
+C:\Users\hp\Documents\Zalo Received Files\ShopMyPham\ShopMyPham\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hp\Documents\Zalo Received Files\ShopMyPham\ShopMyPham\bin\System.Web.WebPages.dll
+C:\Users\hp\Documents\Zalo Received Files\ShopMyPham\ShopMyPham\bin\System.Web.WebPages.Razor.dll
+C:\Users\hp\Documents\Zalo Received Files\ShopMyPham\ShopMyPham\bin\EntityFramework.xml
+C:\Users\hp\Documents\Zalo Received Files\ShopMyPham\ShopMyPham\bin\EntityFramework.SqlServer.xml
+C:\Users\hp\Documents\Zalo Received Files\ShopMyPham\ShopMyPham\bin\Newtonsoft.Json.xml
+C:\Users\hp\Documents\Zalo Received Files\ShopMyPham\ShopMyPham\bin\System.Net.Http.Formatting.xml
+C:\Users\hp\Documents\Zalo Received Files\ShopMyPham\ShopMyPham\bin\System.Web.Helpers.xml
+C:\Users\hp\Documents\Zalo Received Files\ShopMyPham\ShopMyPham\bin\System.Web.Http.xml
+C:\Users\hp\Documents\Zalo Received Files\ShopMyPham\ShopMyPham\bin\System.Web.Http.WebHost.xml
+C:\Users\hp\Documents\Zalo Received Files\ShopMyPham\ShopMyPham\bin\System.Web.Mvc.xml
+C:\Users\hp\Documents\Zalo Received Files\ShopMyPham\ShopMyPham\bin\System.Web.Razor.xml
+C:\Users\hp\Documents\Zalo Received Files\ShopMyPham\ShopMyPham\bin\System.Web.WebPages.xml
+C:\Users\hp\Documents\Zalo Received Files\ShopMyPham\ShopMyPham\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hp\Documents\Zalo Received Files\ShopMyPham\ShopMyPham\bin\System.Web.WebPages.Razor.xml
+C:\Users\hp\Documents\Zalo Received Files\ShopMyPham\ShopMyPham\obj\Debug\ShopMyPham.csprojResolveAssemblyReference.cache
+C:\Users\hp\Documents\Zalo Received Files\ShopMyPham\ShopMyPham\obj\Debug\ShopMyPham.dll
+C:\Users\hp\Documents\Zalo Received Files\ShopMyPham\ShopMyPham\obj\Debug\ShopMyPham.pdb
+C:\Users\hp\Documents\Zalo Received Files\ShopMyPham\ShopMyPham\bin\Facebook.dll
+C:\Users\hp\Documents\Zalo Received Files\ShopMyPham\ShopMyPham\bin\Facebook.xml
+C:\Users\hp\Desktop\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\ShopMyPham.dll.config
+C:\Users\hp\Desktop\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\ShopMyPham.dll
+C:\Users\hp\Desktop\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\ShopMyPham.pdb
+C:\Users\hp\Desktop\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\EntityFramework.dll
+C:\Users\hp\Desktop\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\EntityFramework.SqlServer.dll
+C:\Users\hp\Desktop\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\Facebook.dll
+C:\Users\hp\Desktop\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hp\Desktop\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\hp\Desktop\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\System.Net.Http.Formatting.dll
+C:\Users\hp\Desktop\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\System.Web.Helpers.dll
+C:\Users\hp\Desktop\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\System.Web.Http.dll
+C:\Users\hp\Desktop\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\System.Web.Http.WebHost.dll
+C:\Users\hp\Desktop\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\System.Web.Mvc.dll
+C:\Users\hp\Desktop\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\System.Web.Razor.dll
+C:\Users\hp\Desktop\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hp\Desktop\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\System.Web.WebPages.dll
+C:\Users\hp\Desktop\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\System.Web.WebPages.Razor.dll
+C:\Users\hp\Desktop\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\EntityFramework.xml
+C:\Users\hp\Desktop\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\EntityFramework.SqlServer.xml
+C:\Users\hp\Desktop\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\Facebook.xml
+C:\Users\hp\Desktop\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\Newtonsoft.Json.xml
+C:\Users\hp\Desktop\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\System.Net.Http.Formatting.xml
+C:\Users\hp\Desktop\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\System.Web.Helpers.xml
+C:\Users\hp\Desktop\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\System.Web.Http.xml
+C:\Users\hp\Desktop\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\System.Web.Http.WebHost.xml
+C:\Users\hp\Desktop\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\System.Web.Mvc.xml
+C:\Users\hp\Desktop\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\System.Web.Razor.xml
+C:\Users\hp\Desktop\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\System.Web.WebPages.xml
+C:\Users\hp\Desktop\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hp\Desktop\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\System.Web.WebPages.Razor.xml
+C:\Users\hp\Desktop\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\obj\Debug\ShopMyPham.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\obj\Debug\ShopMyPham.dll
+C:\Users\hp\Desktop\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\obj\Debug\ShopMyPham.pdb
+D:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\ShopMyPham.dll.config
+D:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\ShopMyPham.dll
+D:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\ShopMyPham.pdb
+D:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\EntityFramework.dll
+D:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\EntityFramework.SqlServer.dll
+D:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\Facebook.dll
+D:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\Microsoft.Web.Infrastructure.dll
+D:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\Newtonsoft.Json.dll
+D:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\System.Net.Http.Formatting.dll
+D:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\System.Web.Helpers.dll
+D:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\System.Web.Http.dll
+D:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\System.Web.Http.WebHost.dll
+D:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\System.Web.Mvc.dll
+D:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\System.Web.Razor.dll
+D:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\System.Web.WebPages.Deployment.dll
+D:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\System.Web.WebPages.dll
+D:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\System.Web.WebPages.Razor.dll
+D:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\EntityFramework.xml
+D:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\EntityFramework.SqlServer.xml
+D:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\Facebook.xml
+D:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\Newtonsoft.Json.xml
+D:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\System.Net.Http.Formatting.xml
+D:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\System.Web.Helpers.xml
+D:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\System.Web.Http.xml
+D:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\System.Web.Http.WebHost.xml
+D:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\System.Web.Mvc.xml
+D:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\System.Web.Razor.xml
+D:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\System.Web.WebPages.xml
+D:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\System.Web.WebPages.Deployment.xml
+D:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\System.Web.WebPages.Razor.xml
+D:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\obj\Debug\ShopMyPham.csprojResolveAssemblyReference.cache
+D:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\obj\Debug\ShopMyPham.dll
+D:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\obj\Debug\ShopMyPham.pdb
+E:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\ShopMyPham.dll.config
+E:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\ShopMyPham.dll
+E:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\ShopMyPham.pdb
+E:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\EntityFramework.dll
+E:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\EntityFramework.SqlServer.dll
+E:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\Facebook.dll
+E:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\Microsoft.Web.Infrastructure.dll
+E:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\Newtonsoft.Json.dll
+E:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\System.Net.Http.Formatting.dll
+E:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\System.Web.Helpers.dll
+E:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\System.Web.Http.dll
+E:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\System.Web.Http.WebHost.dll
+E:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\System.Web.Mvc.dll
+E:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\System.Web.Razor.dll
+E:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\System.Web.WebPages.Deployment.dll
+E:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\System.Web.WebPages.dll
+E:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\System.Web.WebPages.Razor.dll
+E:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\EntityFramework.xml
+E:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\EntityFramework.SqlServer.xml
+E:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\Facebook.xml
+E:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\Newtonsoft.Json.xml
+E:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\System.Net.Http.Formatting.xml
+E:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\System.Web.Helpers.xml
+E:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\System.Web.Http.xml
+E:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\System.Web.Http.WebHost.xml
+E:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\System.Web.Mvc.xml
+E:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\System.Web.Razor.xml
+E:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\System.Web.WebPages.xml
+E:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\System.Web.WebPages.Deployment.xml
+E:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\bin\System.Web.WebPages.Razor.xml
+E:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\obj\Debug\ShopMyPham.csprojResolveAssemblyReference.cache
+E:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\obj\Debug\ShopMyPham.dll
+E:\Học Kì 5\Công nghệ web\Nhom2_ShopBanMyPham\ShopMyPham\ShopMyPham\obj\Debug\ShopMyPham.pdb

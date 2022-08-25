@@ -1,0 +1,118 @@
+﻿@model ShopTrueLife.Models.KetNoiLinq.KhachHang
+@{
+    ViewBag.Title = "HoSo";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<style>
+    .auto-style1 {
+        flex: 0 0 auto;
+        width: 33.33333333%;
+        text-align: center;
+        font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    }
+    #button {
+        background: #FA748F;
+        color: #ffffff;
+        border-radius: 0;
+    }
+</style>
+<div class="row">
+    <div class="col-md-3" style="background:#D9D9D9; height:270px; font-family:Cambria, Cochin, Georgia, Times, Times New Roman, serif; padding-top: 90px; padding-left:10%">
+        <a style="color:#000000; font-size:35px;">Sản Phẩm</a>
+        <br />
+        <a style="color:#000000; font-size:medium">Trang Chủ</a> / <a style="color:#FA748F;font-size:medium">Sản Phẩm</a>
+    </div>
+    <div class="col-md-9" style="padding:0">
+        <img src="~/Assets/img/gioiThieu.PNG" style="height:270px; width:100%" href="#" />
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-1"></div>
+    <div class="col-md-10">
+        <br />
+        <div style="font-size:larger; font-family:Cambria, Cochin, Georgia, Times, Times New Roman, serif; text-align:center; font-weight:bold; font-size:30px">
+            <a>THÔNG TIN TÀI KHOẢN CỦA BẠN</a>
+        </div>
+        <br />
+        <div class="card" style="font-family:Cambria, Cochin, Georgia, Times, Times New Roman, serif">
+            <span class="card-body" style="border-color:#FA748F">
+                <div class="row">
+                    <div class="col-md-4">
+                        <img src="~/Assets/img/avt_DJMie.jpeg" style="height:340px; width:330px" href="#" />
+                    </div>
+                    <div class="col-md-8">
+                      
+                        <div class="container">
+                            <div style="padding-top:50px; font-size:24px">
+                                <table >
+                                    <tr>
+                                        <td style="width:25%">Họ và tên:</td>
+                                        <td style="width:380px">@Html.DisplayFor(model => model.HoTen_KH)</td>
+                                    </tr>
+                                    <tr>
+                                        <td style="width:20%">Giới tính:</td>
+                                        <td style="width:380px">@Html.DisplayFor(model => model.GioiTinh)</td>
+                                    </tr>
+                                    <tr>
+                                        <td style="width:20%">Địa chỉ:</td>
+                                        <td style="width:380px">@Html.DisplayFor(model => model.DiaChi)</td>
+                                    </tr>
+                                    <tr>
+                                        <td style="width:20%">Email:</td>
+                                        <td style="width:200px">@Html.DisplayFor(model => model.Email)</td>
+                                    </tr>
+                                    <tr>
+                                        <td style="width:20%">Tài khoản:</td>
+                                        <td style="width:200px">@Html.DisplayFor(model => model.TenDangNhap)</td>
+                                    </tr>
+                                    <tr>
+                                        <td style="width:20%">Mật khẩu:</td>
+                                        <td style="width:200px">@Html.DisplayFor(model => model.MatKhau)</td>
+                                    </tr>
+                                </table>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </span>
+        </div>
+        
+        <br />
+
+        <div style="padding-left:82%">
+            <a href="~/DonHang/DanhSachDonHang"><button type="submit" class="btn" id="button">Danh sách đơn hàng của bạn</button></a>
+        </div>
+
+        <br />
+    </div>
+    <div class="col-md-1"></div>
+    <br />
+</div>
+<div class="row">
+    <div class="auto-style1" style="background:#FA748F; color:#ffffff">
+        <br />
+        <a style="font-weight:bold">HỖ TRỢ KHÁCH HÀNG</a><br />
+        <a>Thắc mắc - Hỏi đáp</a><br />
+        <a>Hướng dẫn mua hàng</a><br />
+        <a>Đặt hàng & Thanh toán</a><br />
+    </div>
+    <div class="auto-style1" style="background:#FA748F; color:#ffffff">
+        <br />
+        <a style="font-weight:bold">THÔNG TIN LIÊN HỆ</a><br />
+        <a>140 Lê Trọng Tấn, Tây Thạnh, Tân Phú </a><br />
+        <a>Hotline: 012345678 - 098765432</a><br />
+        <a>Tư vấn bán hàng từ(8h - 20h thứ 2 - chủ nhật)</a><br />
+    </div>
+    <div class="auto-style1" style="background:#FA748F; color:#ffffff">
+        <br />
+        <a style="font-weight:bold">KẾT NỐI VỚI CHÚNG TÔI</a><br />
+        <a></a><br />
+        <a href="https://www.facebook.com/"><img src="~/Assets/img/fb.jpg" style="width:40px; height:40px;" href="#" /></a>
+        <a href="https://www.instagram.com/"><img src="~/Assets/img/IG.jpg" style="width:40px; height:40px;" href="#" /></a>
+        <a href="https://www.twitter.com/"><img src="~/Assets/img/wb.jpg" style="width:40px; height:40px;" href="#" /></a>
+        <br />
+        <a></a><br />
+    </div>
+</div>
