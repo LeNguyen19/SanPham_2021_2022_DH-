@@ -1,0 +1,53 @@
+.introduced {
+  position: relative;
+}
+
+.intro-background img {
+  max-width: 1150px;
+  width: 100%;
+  margin-left: 10px;
+}
+
+.intro-avt {
+  position: absolute;
+  top: 0;
+  transform: translateY(15%);
+}
+
+.intro-avt img {
+  max-width: 120px;
+  width: 100%;
+}
+
+.intro-ring {
+  position: absolute;
+  top: 0;
+  transform: translate(1%, 16%);
+}
+
+.intro-ring div div{
+  width: 115px;
+  height: 115px;
+  border-radius: 100rem;
+  border: 5px solid var(--pink-color);
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+
+  animation: intro-ring 1s infinite linear;
+}
+
+@keyframes intro-ring {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.intro-title {
+  position: absolute;
+  top: 0;
+  transform: translateY(50%);
+  text-align: justify;
+  font-size: 30px;
+  max-width: 920px;
+  width: 100%;
+}

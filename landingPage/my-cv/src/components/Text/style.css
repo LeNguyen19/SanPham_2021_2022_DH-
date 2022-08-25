@@ -1,0 +1,9 @@
+.titleMain h1{
+  font-size: var(--font-2xl);
+  margin: 0;
+}
+
+.description p{
+  margin: 0;
+  font-size: var(--font-xl);
+}

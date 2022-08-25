@@ -1,0 +1,22 @@
+.menu-list {
+  display: flex;
+  flex-direction: row;
+  padding-left: 0;
+}
+
+.menu-list li {
+  list-style-type: none;
+}
+
+.menu-list a {
+  font-size: var(--font-md);
+  font-weight: var(--weight-bold);
+  color: var(--white-color);
+  padding: 0px 30px;
+  text-decoration: none;
+  line-height: 40px;
+}
+
+.menu-list a:hover {
+  color: var(--pink-color);
+}

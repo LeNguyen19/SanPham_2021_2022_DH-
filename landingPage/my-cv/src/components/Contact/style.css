@@ -1,0 +1,26 @@
+.contact-container img {
+  width: 100%;
+}
+
+.contact-content h1 {
+  font-size: var(--font-2xl);
+  color: var(--pink-color);
+  margin-bottom: 20px;
+}
+
+.contact-content p {
+  margin: 0;
+  font-size: var(--font-l);
+  color: white;
+  padding: 2px;
+}
+
+.contact-container {
+  position: relative;
+}
+
+.contact-content{
+    position: absolute;
+    top:0;
+    transform: translate(40%, 15%);
+}

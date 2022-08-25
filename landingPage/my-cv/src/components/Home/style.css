@@ -1,0 +1,96 @@
+.home-bg {
+  max-width: 100vw;
+  width: 100%;
+  margin-bottom: 50px;
+}
+
+.home-container {
+  position: relative;
+}
+
+.home-navbar {
+  position: absolute;
+  top: 0;
+  margin-left: 20px;
+}
+
+.home-content {
+  position: absolute;
+  top: 0;
+  transform: translate(50%, 70%);
+  max-width: 410px;
+  width: 100%;
+}
+
+.home-content h1 {
+  color: var(--pink-color);
+  font-size: var(--font-5xl);
+  font-weight: var(--weight-sm);
+  font-family: var(--font-home);
+  text-align: center;
+  margin: 0;
+}
+
+.home-content p {
+  color: var(--white-color);
+  font-size: var(--font-l);
+  font-family: var(--font-title);
+  text-align: center;
+  margin: 8px 0;
+}
+
+.home-title {
+  position: absolute;
+  top: 0;
+  transform: translate(53%, 107%);
+}
+
+.home-title h1 {
+  color: var(--white-color);
+  font-size: var(--font-5xl);
+  font-weight: var(--weight-sm);
+  font-family: var(--font-home);
+  margin: 0;
+}
+
+.home-animation {
+  position: absolute;
+  top: 0;
+  transform: translate(118%, 850%);
+}
+
+.triangle {
+  width: 0;
+  height: 0;
+  border-top: 25px solid transparent;
+  border-left: 35px solid var(--white-color);
+  border-right: 25px solid transparent;
+  border-bottom: 25px solid transparent;
+  animation: triangle-animation 1s infinite linear alternate 60s;
+}
+
+.triangle-left {
+  animation-delay: 0.12s;
+}
+
+.triangle-center {
+  animation-delay: 0.36s;
+}
+
+.triangle-right {
+  animation-delay: 0.6s;
+}
+
+@keyframes triangle-animation {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+    border-top: 25px solid transparent;
+    border-left: 35px solid var(--white-color);
+    border-right: 25px solid transparent;
+    border-bottom: 25px solid transparent;
+  }
+}
+

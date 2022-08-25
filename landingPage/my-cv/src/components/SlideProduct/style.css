@@ -1,0 +1,40 @@
+.slide-container {
+  width: 260px;
+  border: 1px solid rgb(224, 224, 224);
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.slide-img img {
+  max-width: 250px;
+  width: 100%;
+}
+
+.slide-container:hover {
+  box-shadow: 0 6px 20px 0px rgba(97, 97, 97, 0.19);
+}
+
+.slide-container:hover h3 {
+  color: var(--pink-color);
+}
+
+.slide-btn {
+  height: 53px;
+  width: 150px;
+  border-radius: 10px;
+  background-color: white;
+  color: var(--pink-color);
+  font-size: var(--font-md);
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.5s ease;
+  border: 2px solid var(--pink-color);
+  margin: 10px 0;
+}
+
+.slide-btn:hover {
+  color: white;
+  background-color: var(--pink-color);
+  border: none;
+}
